@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Publications
 ---
 
 <h3><b>Journal Publications</b></h3>
