@@ -65,15 +65,15 @@ Aguilera, M (2015) <a href="http://maguilera0.files.wordpress.com/2013/06/capitu
 
 </div>
 <b>Posters</b>
-<p">Izquierdo, E.J., Aguilera, M. and Beer, R.D. (2013). <a href="http://maguilera0.files.wordpress.com/2012/11/poster_final.pdf" target="_blank" rel="noopener noreferrer">Analysis of ultrastability in small dynamical recurrent neural networks</a>. 12th European Conference on Artificial Life.</p>
-<p">Aguilera, M, Bedia, M.G., Santos, B.A.  and Barandiaran, X.E. (2012).<a href="http://maguilera0.files.wordpress.com/2012/11/quantifying-forms-of-sensorimotor-coupling.pdf" target="_blank" rel="noopener noreferrer"> Quantifying forms of sensorimotor coupling with the situated­HKB model. What robots can tell us about ecological psychology</a>. 12th European Workshop on Ecological Psychology.</p>
-<p">Fernández, M. and Aguilera, M. (2011). <a href="http://maguilera0.files.wordpress.com/2012/11/poster-extended-vs-embedded-cog.pdf" target="_blank" rel="noopener noreferrer">Exploring the limits of situated and dynamical cognition: embedded vs. extended cognition</a>. Poster presented at the Workshop on Embodied, Distributed and Extended Cognition: Philosophical Perspectives, Department of Philosophy, Universistat Autònoma de Barcelona. Barcelona, March 24-25, 2011.</p>
+Izquierdo, E.J., Aguilera, M. and Beer, R.D. (2013). <a href="http://maguilera0.files.wordpress.com/2012/11/poster_final.pdf" target="_blank" rel="noopener noreferrer">Analysis of ultrastability in small dynamical recurrent neural networks</a>. 12th European Conference on Artificial Life.
+Aguilera, M, Bedia, M.G., Santos, B.A.  and Barandiaran, X.E. (2012).<a href="http://maguilera0.files.wordpress.com/2012/11/quantifying-forms-of-sensorimotor-coupling.pdf" target="_blank" rel="noopener noreferrer"> Quantifying forms of sensorimotor coupling with the situated­HKB model. What robots can tell us about ecological psychology</a>. 12th European Workshop on Ecological Psychology.
+Fernández, M. and Aguilera, M. (2011). <a href="http://maguilera0.files.wordpress.com/2012/11/poster-extended-vs-embedded-cog.pdf" target="_blank" rel="noopener noreferrer">Exploring the limits of situated and dynamical cognition: embedded vs. extended cognition</a>. Poster presented at the Workshop on Embodied, Distributed and Extended Cognition: Philosophical Perspectives, Department of Philosophy, Universistat Autònoma de Barcelona. Barcelona, March 24-25, 2011.
 
 <h3><b>Dissertations and Thesis
 </b></h3>
 <h4>PhD thesis dissertation</h4>
 Aguilera, M (2015). <a href="http://phdthesis.maguilera.net/">Interaction Dynamics and Autonomy in Cognitive Systems</a>. PhD thesis, University of Zaragoza, Spain.
-<h4">Master's Thesis</h4>
-<p">Aguilera, M. (2011). <a href="http://zaguan.unizar.es/TAZ/CPS/2011/6274/TAZ-TFM-2011-040.pdf" target="_blank" rel="noopener noreferrer">Coordination Dynamics in the Sensorimotor Loop</a>. Master's thesis, University of Zaragoza, Spain.</p>
+<h4>Master's Thesis</h4>
+Aguilera, M. (2011). <a href="http://zaguan.unizar.es/TAZ/CPS/2011/6274/TAZ-TFM-2011-040.pdf" target="_blank" rel="noopener noreferrer">Coordination Dynamics in the Sensorimotor Loop</a>. Master's thesis, University of Zaragoza, Spain.
 <h4>BS Final Year Project</h4>
-<p">Aguilera, M. (2010). <a href="http://www.google.es/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CB8QFjAA&amp;url=http%3A%2F%2Fzaguan.unizar.es%2FTAZ%2FCPS%2F2010%2F4897%2FTAZ-PFC-2010-105.pdf&amp;ei=QL2XUOKNBo3U4QTps4DwBQ&amp;usg=AFQjCNGZHWOFTOMNmm42J7p3bqVjBWEieg" target="_blank" rel="noopener noreferrer">Efectos no lineales de la integración de capacidades emocionales en agentes inteligentes</a>. Final Year Project, University of Zaragoza, Spain.</p>
+Aguilera, M. (2010). <a href="http://www.google.es/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CB8QFjAA&amp;url=http%3A%2F%2Fzaguan.unizar.es%2FTAZ%2FCPS%2F2010%2F4897%2FTAZ-PFC-2010-105.pdf&amp;ei=QL2XUOKNBo3U4QTps4DwBQ&amp;usg=AFQjCNGZHWOFTOMNmm42J7p3bqVjBWEieg" target="_blank" rel="noopener noreferrer">Efectos no lineales de la integración de capacidades emocionales en agentes inteligentes</a>. Final Year Project, University of Zaragoza, Spain.
