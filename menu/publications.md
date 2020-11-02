@@ -51,10 +51,10 @@ Castillo, LF, Isaza, AL, Bedia, MG, Aguilera, M Correa, J (2012). Grid Computing
 Aguilera, M, Bedia, MG, Barandiaran, XE &amp; Serón, F (2011). <a href="http://maguilera0.files.wordpress.com/2012/11/aguilera_etal_-_2011_-_the_adjustment-deployment_dilemma_in_organisms_behaviour_-_.pdf" target="_blank" rel="noopener noreferrer">The adjustment-deployment dilemma in organism’s behaviour: theoretical characterization and minimal model</a>.<em> Proceedings of the IEEE Symposium on Artificial Life</em>, pp. 116-123.
 
 Castillo, LF, Bedia, MG, Aguilera, M, &amp; Uribe, AL (2011). A proposal for improving retrieval processes in case-based reasoning systems able to act in dynamic environments. <em>Proceedings of the International Symposium on Distributed Computing and Artificial Intelligence 2011</em>.
-<p">Castillo, LF, Bedia, MG, Aguilera, M, Uribe AL, Manrique, M &amp; Isaza, G (2011). Case-based reasoning and real-time systems: exploiting successfully poorer solutions. <em>Proceedings of the 6th Colombian Computing Congress</em>.</p>
-<p">Castillo, LF, Bedia, MG, Aguilera, M &amp; Uribe, AL (2011). Grid computing and CBR Deployment: Monitoring Principles for a Suitable Engagement. <em>Proceedings of the 2011 International Conferenceon Grid Computing and Applications</em>.</p>
+Castillo, LF, Bedia, MG, Aguilera, M, Uribe AL, Manrique, M &amp; Isaza, G (2011). Case-based reasoning and real-time systems: exploiting successfully poorer solutions. <em>Proceedings of the 6th Colombian Computing Congress</em>.
+Castillo, LF, Bedia, MG, Aguilera, M &amp; Uribe, AL (2011). Grid computing and CBR Deployment: Monitoring Principles for a Suitable Engagement. <em>Proceedings of the 2011 International Conferenceon Grid Computing and Applications</em>.
 
-<h3><strong>Books &amp; Book Chapters</strong></h3>
+<h3>Books &amp; Book Chapters</h3>
 <div>
 
 Vila-Viñas, M. Aguilera, G. Valenzuela, &amp; A. Quintana (Eds.), <a href="http://etopiaciudadana.unizar.es/files/Etopia_Ciudadana_2016_libro.pdf">Etopia_ciudadana. Comunidades productivas para la economía social del conocimiento</a>. Zaragoza: Universidad de Zaragoza. ISBN 978-84-16723-06-5.
@@ -64,7 +64,7 @@ Barandiaran, X. E., &amp; Aguilera, M. (2015). <a href="https://maguilera0.files
 Aguilera, M (2015) <a href="http://maguilera0.files.wordpress.com/2013/06/capitulo.pdf" target="_blank" rel="noopener noreferrer">La conciencia red de la multitud conectada: la mente colectiva del 15M</a>. In Toret, J. (Ed.).  <em>Tecnopolítica y 15M. La potencia de las multitudes conectadas</em> (pp. 144-161). Barcelona: Editorial UOC. ISBN: <a class="libx-autolink" title="ISBN not found" href="http://roble.unizar.es/search*spi/i?8490644586&amp;startLimit=&amp;endLimit=">978-84-9064-458-4</a>
 
 </div>
-<b>Posters</b>
+<h3>Posters</h3>
 Izquierdo, E.J., Aguilera, M. and Beer, R.D. (2013). <a href="http://maguilera0.files.wordpress.com/2012/11/poster_final.pdf" target="_blank" rel="noopener noreferrer">Analysis of ultrastability in small dynamical recurrent neural networks</a>. 12th European Conference on Artificial Life.
 Aguilera, M, Bedia, M.G., Santos, B.A.  and Barandiaran, X.E. (2012).<a href="http://maguilera0.files.wordpress.com/2012/11/quantifying-forms-of-sensorimotor-coupling.pdf" target="_blank" rel="noopener noreferrer"> Quantifying forms of sensorimotor coupling with the situated­HKB model. What robots can tell us about ecological psychology</a>. 12th European Workshop on Ecological Psychology.
 Fernández, M. and Aguilera, M. (2011). <a href="http://maguilera0.files.wordpress.com/2012/11/poster-extended-vs-embedded-cog.pdf" target="_blank" rel="noopener noreferrer">Exploring the limits of situated and dynamical cognition: embedded vs. extended cognition</a>. Poster presented at the Workshop on Embodied, Distributed and Extended Cognition: Philosophical Perspectives, Department of Philosophy, Universistat Autònoma de Barcelona. Barcelona, March 24-25, 2011.
