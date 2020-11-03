@@ -2,7 +2,7 @@
 layout: post
 title: "New website"
 author: "Miguel Aguilera"
-categories: journal
+categories: blog
 tags: [sample]
 image: mountains1.jpg
 ---
