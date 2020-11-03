@@ -7,13 +7,9 @@ tags: [documentation,sample]
 image: logoSussex.png
 ---
 
-I'm happy to share that I started to work on a new project funded by a [MSCA-IF grant](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) to work at the [University of Sussex](https://www.sussex.ac.uk/) in collaboration with [Chris Buckley](https://christopherlbuckley.com/).
+I'm happy to share that I started a new project funded by a [MSCA-IF grant](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) to work at the [University of Sussex](https://www.sussex.ac.uk/) in collaboration with [Chris Buckley](https://christopherlbuckley.com/).
 
 The project aims to apply information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed look behavior, e.g. trying to apply theoretical methods for approximating the behaviour of very large networks and inferring their parameters from experimental data.
-
-<!-- wp:image {"align":"center","width":167,"height":147,"sizeSlug":"large","ampLayout":""} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://www.sussex.ac.uk/assets/media/images/site/vacuum/logo.png" alt="" width="167" height="147" /></figure></div>
-<!-- /wp:image -->
 
 ### Project description
 
