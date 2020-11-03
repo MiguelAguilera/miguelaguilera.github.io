@@ -10,5 +10,4 @@ title: Projects
 <!--  <div class="thumbnail-container">-->
     <a href="http://maguilera.net"><img src="{{ site.github.url }}/assets/img/project-agency-stat-phys.png"></a>
 <!--  </div>-->
-¡¡
 </div>
