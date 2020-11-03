@@ -2,7 +2,7 @@
 layout: post
 title: "Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling"
 author: "Miguel Aguilera"
-categories: journal
+categories: blog
 tags: [paper]
 ---
 

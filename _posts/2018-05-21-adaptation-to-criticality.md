@@ -2,7 +2,7 @@
 layout: post
 title: "Adaptation to criticality through organizational invariance in embodied agents"
 author: "Miguel Aguilera"
-categories: journal
+categories: blog
 tags: [paper]
 image: adaptation-to-criticality.png
 ---
