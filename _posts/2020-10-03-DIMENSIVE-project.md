@@ -4,7 +4,7 @@ title: "DIMENSIVE project"
 author: "Miguel Aguilera"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: img/logoSussex.png
 ---
 
 I'm happy to share that I started to work on a new project funded by a MSCA-IF grant to work at the University of Sussex in collaboration with Chris Buckley.
