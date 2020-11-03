@@ -3,4 +3,5 @@ layout: page
 title: Contact
 ---
 
-Contact info
+**Email**
+![](_img/email.png)
