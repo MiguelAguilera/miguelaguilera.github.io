@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Miguel Aguilera'
-description:	       'adaptive behaviour, complex systems, neuroscience and cognition'
+description:	       'complex systems, neuroscience and cognition'
 author:              'Miguel Aguilera'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
