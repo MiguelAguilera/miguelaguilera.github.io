@@ -3,10 +3,11 @@ layout: page
 title: About
 ---
 
-<img src="https://maguilera.net/img/agency.png" width="200"/>
 
 
 I am a postdoctoral researcher working in the crossroad of complex systems, artificial life and cognitive sciences. My research interest is understanding the emergence of adaptive behaviour, autonomy and agency at different levels of living entities - from biological to mental and social life. I combine nonlinear and dynamical models, information theory, and complex systems tools, to generate and understand situated and embodied models of agency in the realms of artificial life, evolutionary robotics, computational neuroscience, collective intelligence practices and socio-technical systems.
+
+<img src="https://maguilera.net/img/agency.png" width="300"  alt="agency" class="center"/>
 
 I am currently a Marie Skłodowska-Curie research fellow at the University of Sussex in the [Department of Informatics](http://www.sussex.ac.uk/informatics/) and [Sussex Neuroscience](http://www.sussex.ac.uk/sussexneuroscience/) working with [Chris Buckley](https://christopherlbuckley.com/). I have worked in the past as a postdoc at the [IAS-Research Center for Life, Mind and Society](http://www.ias-research.net/) under the supervision of [Ezequiel Di Paolo](https://ezequieldipaolo.net/), the [Institute for Cross-Disciplinary Physics and Complex Systems](https://ifisc.uib-csic.es/en/) with [Toni Gomila](https://antonigomila.wordpress.com/) and the [Aragon Institute of Engineering Research](https://i3a.unizar.es/) with Manuel Bedia. During this time, I had the chance to visit and collaborate with [Hideaki Shimazaki](http://www.neuralengine.org/index_en.html)'s lab at the [Kyoto University Cooperative Intelligence Research Chair.](http://ci.ist.i.kyoto-u.ac.jp/index.php?id=10)
 
