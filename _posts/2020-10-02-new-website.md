@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "New website"
-author: "Paul Le"
+author: "Miguel Aguilera"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: mountains1.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Welcome to my new website. I'll migrate most of my content from my old one, but the content will be available [here](https://maguilera0.wordpress.com).
 
 ## Getting Started
 
