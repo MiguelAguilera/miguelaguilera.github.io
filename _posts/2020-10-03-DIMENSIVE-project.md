@@ -2,7 +2,7 @@
 layout: post
 title: "DIMENSIVE project"
 author: "Miguel Aguilera"
-categories: journal
+categories: blog
 tags: [project]
 image: dimensive-sussex.png
 ---
