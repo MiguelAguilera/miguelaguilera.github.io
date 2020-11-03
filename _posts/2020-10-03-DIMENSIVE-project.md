@@ -3,7 +3,7 @@ layout: post
 title: "DIMENSIVE project"
 author: "Miguel Aguilera"
 categories: journal
-tags: [documentation,sample]
+tags: [project]
 image: logoSussex.png
 ---
 

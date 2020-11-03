@@ -3,7 +3,7 @@ layout: post
 title: "Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory"
 author: "Miguel Aguilera"
 categories: journal
-tags: [documentation,sample]
+tags: [paper]
 image: scalingIIT.png
 ---
 
