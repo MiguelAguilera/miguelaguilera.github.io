@@ -9,7 +9,9 @@ image: scalingIIT.png
 
 I just published a [new paper](https://www.mdpi.com/1099-4300/21/12/1198) exploring some of the ideas we initiated in our [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001) (Aguilera & Di Paolo, 2019) paper. Here, I  explore in detail many of the assumptions of Integrated Information Theory (specifically IIT 3.0) by computing integration in large kinetic Ising networks presenting a critical point. By combining a simple model with tractable statistical properties that can be analytically characterized with architectures, I show that some assumptions in the theory are problematic for capturing some of the properties associated with critical phase transitions. This example compels researchers interested in IIT and related indices of complexity to apply such measures under careful examination of their design assumptions. Rather than applying the measure off-the-shelf, this work offers some methods to explore in more depth the assumptions behind the measure and how they apply to each situation 
 
-Aguilera, M & Di Paolo, EA (2019). [Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory](https://www.mdpi.com/1099-4300/21/12/1198). _Entropy_ 2019, _21_(12), 1198; https://doi.org/10.3390/e21121198 ![entropy-21-01198-ag](https://maguilera0.files.wordpress.com/2019/12/entropy-21-01198-ag.png) 
+Aguilera, M & Di Paolo, EA (2019). [Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory](https://www.mdpi.com/1099-4300/21/12/1198). _Entropy_ 2019, _21_(12), 1198; https://doi.org/10.3390/e21121198
+
+[entropy-21-01198-ag](https://maguilera0.files.wordpress.com/2019/12/entropy-21-01198-ag.png) 
 
 **Abstract**: 
 
