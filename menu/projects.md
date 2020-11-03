@@ -7,9 +7,6 @@ title: Projects
 - {{ project.title }}
 {% endfor %}
 
-{% for post in site.posts %}
-- {{ post.title }}
-{% endfor %}
 </ul>
 <div class="posts">
   <h3>
