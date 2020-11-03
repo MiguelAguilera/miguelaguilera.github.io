@@ -5,6 +5,7 @@
     Masthead
     Thumbnail
     Post
+    Projects
     Pagination
     Footer
     Menu
@@ -174,6 +175,28 @@ hr {
 
 .related-posts a {
   text-decoration: none;
+}
+
+
+/*
+  Pagination
+*/
+
+.projects {
+  .grid-item {
+    width: 250px;
+    margin-bottom: 10px;
+    a {
+      color: black;
+      text-decoration: none;
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+  .card img {
+    width: 100%;
+  }
 }
 
 /*
