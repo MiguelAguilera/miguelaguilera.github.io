@@ -11,8 +11,6 @@ I just published a [new paper](https://www.mdpi.com/1099-4300/21/12/1198) explor
 
 Aguilera, M & Di Paolo, EA (2019). [Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory](https://www.mdpi.com/1099-4300/21/12/1198). _Entropy_ 2019, _21_(12), 1198; https://doi.org/10.3390/e21121198
 
-[entropy-21-01198-ag](https://maguilera0.files.wordpress.com/2019/12/entropy-21-01198-ag.png) 
-
 **Abstract**
 
 Integrated Information Theory proposes a measure of conscious activity ($\Phi$), characterised as the irreducibility of a dynamical system to the sum of its components. Due to its computational cost, current versions of the theory (IIT 3.0) are difficult to apply to systems larger than a dozen units, and, in general, it is not well known how integrated information scales as systems grow larger in size. In this article, we propose to study the scaling behaviour of integrated information in a simple model of a critical phase transition: an infinite-range kinetic Ising model. In this model, we assume a homogeneous distribution of couplings to simplify the computation of integrated information. This simplified model allows us to critically review some of the design assumptions behind the measure and connect its properties with well-known phenomena in phase transitions in statistical mechanics. As a result, we point to some aspects of the mathematical definitions of IIT 3.0 that fail to capture critical phase transitions and propose a reformulation of the assumptions made by integrated information measures.
