@@ -4,7 +4,7 @@ title: "DIMENSIVE project"
 author: "Miguel Aguilera"
 categories: journal
 tags: [project]
-image: logoSussex.png
+image: dimensive-sussex.png
 ---
 
 I'm happy to share that I started a new project funded by a [MSCA-IF grant](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) to work at the [University of Sussex](https://www.sussex.ac.uk/) in collaboration with [Chris Buckley](https://christopherlbuckley.com/). 
