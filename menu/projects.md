@@ -3,6 +3,11 @@ layout: page
 title: Projects
 ---
 
+{% for project in site.projects %}
+- {{ project.title }}
+{% endfor %}
+
+
 <div class="posts">
   <h3>
     <a href="http://maguilera.net">Criticality, phase transitions and information integration for modelling autonomy and agency</a>
