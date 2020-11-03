@@ -2,7 +2,7 @@
 layout: post
 title: "PhD thesis defence – Interaction Dynamics and Autonomy in Cognitive Systems"
 author: "Miguel Aguilera"
-categories: journal
+categories: blog
 tags: [phd thesis]
 ---
 
