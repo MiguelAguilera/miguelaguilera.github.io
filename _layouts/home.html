@@ -34,11 +34,3 @@ title: Home
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
-
-{% for project in paginator.projects %}
-<div class="posts">
-  <h1>
-    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-  </h1>
-</div>
-{% endfor %}
