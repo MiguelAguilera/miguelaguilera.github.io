@@ -16,7 +16,7 @@ title: Projects
 
 <div class="posts">
 <!--  <div class="thumbnail-container">-->
-    <a href="/projects/ehu.html"><img src="{{ site.github.url }}/assets/img/project-agency-stat-phys.png" height="300"></a>
+    <a href="/projects/ehu.html"><img src="{{ site.github.url }}/assets/img/ehu-project.png" height="300"></a>
 <!--  </div>-->
   <h3>
     <a href="/projects/ehu.html">Criticality, phase transitions and information integration for modelling autonomy and agency</a>

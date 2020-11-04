@@ -4,6 +4,8 @@ title: "PhD thesis defence – Interaction Dynamics and Autonomy in Cognitive Sy
 author: "Miguel Aguilera"
 ---
 
+<img src="/assets/img/ehu-project.png">
+
 This project was developed at the [IAS Research Centre for Life, Mind and Society](http://www.ias-research.net/) at the University of the Basque Country, funded by a postdoc grant from this university. 
 
 ### Abstract:
