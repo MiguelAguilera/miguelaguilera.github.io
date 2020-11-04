@@ -10,6 +10,6 @@ Last week I defended my PhD dissertation entitled 'Interaction Dynamics and Auto
 
 I should thank Manuel Bedia, Xabier Barandiaran and Francisco Serón for their extraordinary work as supervisors and collaborators, as well as many other people that has supported the work developed in this dissertation. The complete dissertation can be freely downloaded from [here](http://phdthesis.maguilera.net/): 
 
-[![icon](https://maguilera0.files.wordpress.com/2015/12/icon1.png)](http://phdthesis.maguilera.net/)
+[![icon](/assets/img/phd-thesis-icon.png)](http://phdthesis.maguilera.net/)
 
 Also, you can check the [slides of the presentation](https://maguilera0.files.wordpress.com/2015/12/presentation-phd-thesis.pdf "presentation-phd-thesis")
