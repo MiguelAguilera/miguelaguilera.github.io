@@ -28,6 +28,6 @@ title: Projects
     <a href="/projects/phd.html">Interaction Dynamics and Autonomy in Cognitive Systems</a>
   </h3>
 <!--  <div class="thumbnail-container">-->
-    <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/project-agency-stat-phys.png"></a>
+    <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/thesis-chart.png"></a>
 <!--  </div>-->
 </div>
