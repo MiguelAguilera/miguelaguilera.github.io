@@ -2,9 +2,10 @@
 layout: page
 title: "PhD thesis defence – Interaction Dynamics and Autonomy in Cognitive Systems"
 author: "Miguel Aguilera"
+permalink: /projects/ehu/
 ---
 
-<img src="/assets/img/ehu-project.png">
+<img src="{{ site.github.url }}/assets/img/ehu-project.png">
 
 This project was developed at the [IAS Research Centre for Life, Mind and Society](http://www.ias-research.net/) at the University of the Basque Country, funded by a postdoc grant from this university. 
 
