@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Criticality, phase transitions and information integration for modelling autonomy and agency"
+title: "Criticality, phase transitions and integrated information for modelling autonomy and agency"
 author: "Miguel Aguilera"
 permalink: /projects/ehu.html
 ---
