@@ -29,7 +29,7 @@ title: Projects
 
 <div class="posts">
 <!--  <div class="thumbnail-container">-->
-    <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/thesis-chart.png" height="300"></a>
+    <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/uz-project.png" height="300"></a>
 <!--  </div>-->
   <h3>
     <a href="/projects/phd.html">Interaction Dynamics and Autonomy in Cognitive Systems</a>

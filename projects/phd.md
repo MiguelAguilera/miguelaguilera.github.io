@@ -5,6 +5,9 @@ author: "Miguel Aguilera"
 permalink: /projects/phd.html
 ---
 
+<img src="{{ site.github.url }}/assets/img/uz-project.png">
+
+
 ### Abstract
 
 The concept of autonomy is of crucial importance for understanding life and cognition. Whereas cellular and organismic autonomy is based in the self-production of the material infrastructure sustainingthe existence of living beings as such, we are interested in how biological autonomy can be expandedinto forms of autonomous agency, where autonomy as a form of organization is extended into the behaviour of an agent in interaction with its environment (and not its material self-production). In thisthesis, we focus on the development of operational models of sensorimotor agency, exploring the con-struction of a domain of interactions creating a dynamical interface between agent and environment.We present two main contributions to the study of autonomous agency:
