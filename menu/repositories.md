@@ -3,8 +3,9 @@ layout: page
 title: Code & Data
 ---
 
-## Code repositories:
+Here you can find different code and data repositories aimed to reproduce the results of some of my papers.
 
+## Code repositories:
 
 <div class="posts">
 <li itemscope>
