@@ -5,9 +5,9 @@ title: Projects
 
 
 <div class="posts">
-    <div class="thumbnail-container">
+<!--    <div class="thumbnail-container">-->
     <a href="/projects/dimesive.html"><img src="{{ site.github.url }}/assets/img/dimensive-sussex.png"></a>
-    </div>
+<!--    </div>-->
   <h3>
     <a href="/projects/dimesive.html">DIMENSIVE: Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments</a>
   </h3>
