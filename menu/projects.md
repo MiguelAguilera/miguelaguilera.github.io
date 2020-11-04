@@ -12,6 +12,9 @@ title: Projects
     <a href="/projects/dimesive.html">DIMENSIVE: Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments</a>
   </h3>
   <p> MSCA IF action focused on applying information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed look behavior.</p>
+  <span class="post-date">
+     Period: 2020-2022
+  </span>
 </div>
 
 <div class="posts">
