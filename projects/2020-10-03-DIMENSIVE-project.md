@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "DIMENSIVE project"
+layout: page
+title: "PhD thesis defence – Interaction Dynamics and Autonomy in Cognitive Systems"
 author: "Miguel Aguilera"
-categories: blog
-tags: [project]
-image: dimensive-sussex.png
+permalink: /projects/
 ---
+
 
 I'm happy to share that I started a new project funded by a [MSCA-IF grant](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) to work at the [University of Sussex](https://www.sussex.ac.uk/) in collaboration with [Chris Buckley](https://christopherlbuckley.com/). 
 The project aims to apply information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed look behavior, e.g. trying to apply theoretical methods for approximating the behaviour of very large networks and inferring their parameters from experimental data.

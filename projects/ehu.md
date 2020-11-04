@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: page
 title: "PhD thesis defence – Interaction Dynamics and Autonomy in Cognitive Systems"
 author: "Miguel Aguilera"
-category: projects
-tags: [phd thesis]
-
+permalink: /projects/
 ---
 
 Last week I defended my PhD dissertation entitled 'Interaction Dynamics and Autonomy in Cognitive Systems'. It was a beautiful and intense experience for closing four years of work. The thesis was examined by Ricard Solé, Ezequiel di Paolo and Seth Bullock, which provided several points of discussion for a rich and stimulating debate about the contributions of the dissertation and lines of further development. 
