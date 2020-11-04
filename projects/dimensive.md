@@ -2,6 +2,7 @@
 layout: page
 title: "DIMENSIVE: Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments"
 author: "Miguel Aguilera"
+permalink: /projects/dimesive.html
 ---
 
 
