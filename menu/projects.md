@@ -3,36 +3,22 @@ layout: page
 title: Projects
 ---
 
-
+<ul class="posts">
 <li itemscope>
     <a href="/projects/msca.html"><img src="{{ site.github.url }}/assets/img/dimensive-sussex.png" height="300"></a>
-  <h3>
-    <a href="/projects/msca.html">DIMENSIVE: Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments</a>
-  </h3>
-  <p> MSCA IF action focused on applying information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed look behavior.</p>
-  <span class="post-date">
-     Funding entity: European Commission. Duration: 2020-2022.
-  </span>
+    <a href="/projects/msca.html">DIMENSIVE: Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments</a>. MSCA IF action focused on applying information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed look behavior.
+  <p class="post-date"><span>Funding entity: European Commission. Duration: 2020-2022.</span></p>
 </li>
 
 <li itemscope>
     <a href="/projects/ehu.html"><img src="{{ site.github.url }}/assets/img/ehu-project.png" height="300"></a>
-  <h3>
-    <a href="/projects/ehu.html">Criticality, phase transitions and integrated information for modelling autonomy and agency</a>
-  </h3>
-  <p> UPV/EHU-funded postdoc project to explore statistical mechanics models and information theoretical tools for exploring aspects of autonomy in living and cognitive systems: adaptation, integration, agency.</p>
-  <span class="post-date">
-     Funding entity: University of the Basque Country. Duration: 2018-2020.
-  </span>
+    <a href="/projects/ehu.html">Criticality, phase transitions and integrated information for modelling autonomy and agency</a>. UPV/EHU-funded postdoc project to explore statistical mechanics models and information theoretical tools for exploring aspects of autonomy in living and cognitive systems: adaptation, integration, agency.
+  <p class="post-date"><span>Funding entity: University of the Basque Country. Duration: 2018-2020.</span></p>
 </li>
 
 <li itemscope>
     <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/uz-project.png" height="300"></a>
-  <h3>
-    <a href="/projects/phd.html">Interaction Dynamics and Autonomy in Cognitive Systems</a>
-  </h3>
-  <p> PhD project funded by the Spanish Ministry FPU program.</p>
-  <span class="post-date">
-     Funding entity: Spanish Education Ministry. Duration: 2011-2015.
-  </span>
+    <a href="/projects/phd.html">Interaction Dynamics and Autonomy in Cognitive Systems</a>. PhD project funded by the Spanish Ministry FPU program.
+  <p class="post-date"><span>Funding entity: Spanish Education Ministry. Duration: 2011-2015.</span></p>
 </li>
+</ul>
