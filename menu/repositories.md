@@ -6,7 +6,7 @@ title: Code & Data
 ## Code repositories
 
 
-<ul class="posts">
+<div class="posts">
 <li itemscope>
     <h3>
     <a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance" target="_blank">Adaptation to criticality</a>.</h3>
@@ -15,6 +15,6 @@ title: Code & Data
 
 <br>
 
-</ul>
+</div>
 
 ## Data repositories
