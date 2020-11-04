@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PhD thesis defence – Interaction Dynamics and Autonomy in Cognitive Systems"
+title: "Criticality, phase transitions and information integration for modelling autonomy and agency"
 author: "Miguel Aguilera"
 permalink: /projects/ehu.html
 ---
