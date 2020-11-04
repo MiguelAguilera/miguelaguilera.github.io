@@ -4,6 +4,9 @@ title: Projects
 ---
 
 <ul class="posts">
+
+<br>
+
 <li itemscope>
     <a href="/projects/msca.html"><img src="{{ site.github.url }}/assets/img/dimensive-sussex.png" height="300"></a>
     <a href="/projects/msca.html">DIMENSIVE: Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments</a>. 
