@@ -13,7 +13,7 @@ title: Projects
   </h3>
   <p> MSCA IF action focused on applying information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed look behavior.</p>
   <span class="post-date">
-     Period: 2020-2022
+     Funding entity: European Commission. Duration: 2020-2022.
   </span>
 </div>
 
@@ -25,6 +25,9 @@ title: Projects
     <a href="/projects/ehu.html">Criticality, phase transitions and integrated information for modelling autonomy and agency</a>
   </h3>
   <p> UPV/EHU-funded postdoc project to explore statistical mechanics models and information theoretical tools for exploring aspects of autonomy in living and cognitive systems: adaptation, integration, agency.</p>
+  <span class="post-date">
+     Funding entity: University of the Basque Country. Duration: 2018-2020.
+  </span>
 </div>
 
 <div class="posts">
@@ -35,4 +38,7 @@ title: Projects
     <a href="/projects/phd.html">Interaction Dynamics and Autonomy in Cognitive Systems</a>
   </h3>
   <p> PhD project funded by the Spanish Ministry FPU program.</p>
+  <span class="post-date">
+     Funding entity: Spanish Education Ministry. Duration: 2011-2015.
+  </span>
 </div>
