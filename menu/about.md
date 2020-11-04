@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a researcher working in the crossroad of complex systems, artificial life and cognitive sciences. My research interest is understanding the emergence of adaptive behaviour, autonomy and agency at different levels of living entities - from biological to mental and social life. I combine nonlinear and dynamical models, information theory, and complex systems tools, to generate and understand situated and embodied models of agency in the realms of artificial life, evolutionary robotics, computational neuroscience, collective intelligence practices and socio-technical systems.
+I am a researcher working at the crossroad of complex systems, artificial life and cognitive sciences. My research interest is understanding the emergence of adaptive behaviour, autonomy and agency at different levels of living entities - from biological to mental and social life. I combine nonlinear and dynamical models, information theory, and complex systems tools, to generate and understand situated and embodied models of agency in the realms of artificial life, evolutionary robotics, computational neuroscience, collective intelligence practices and socio-technical systems.
 
 <img src="https://maguilera.net/img/agency.png" width="300"  alt="agency" class="center"/>
 
