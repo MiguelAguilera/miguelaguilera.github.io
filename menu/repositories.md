@@ -3,7 +3,7 @@ layout: page
 title: Code & Data
 ---
 
-Here you can find different code and data repositories aimed to reproduce the results of some of my papers.
+Here you can find different code and data repositories related to my papers and other projects.
 
 ## Code repositories:
 
