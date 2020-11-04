@@ -10,11 +10,15 @@ title: Projects
   <p class="post-date"><span>Funding entity: European Commission. Duration: 2020-2022.</span></p>
 </li>
 
+<br>
+
 <li itemscope>
     <a href="/projects/ehu.html"><img src="{{ site.github.url }}/assets/img/ehu-project.png" height="300"></a>
     <a href="/projects/ehu.html">Criticality, phase transitions and integrated information for modelling autonomy and agency</a>. UPV/EHU-funded postdoc project to explore statistical mechanics models and information theoretical tools for exploring aspects of autonomy in living and cognitive systems: adaptation, integration, agency.
   <p class="post-date"><span>Funding entity: University of the Basque Country. Duration: 2018-2020.</span></p>
 </li>
+
+<br>
 
 <li itemscope>
     <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/uz-project.png" height="300"></a>
