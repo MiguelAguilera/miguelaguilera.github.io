@@ -2,7 +2,7 @@
 layout: page
 title: "PhD thesis defence – Interaction Dynamics and Autonomy in Cognitive Systems"
 author: "Miguel Aguilera"
-permalink: /projects/ehu/
+permalink: /projects/ehu.html
 ---
 
 <img src="{{ site.github.url }}/assets/img/ehu-project.png">

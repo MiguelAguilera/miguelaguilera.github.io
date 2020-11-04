@@ -2,6 +2,7 @@
 layout: page
 title: "Interaction Dynamics and Autonomy in Cognitive Systems"
 author: "Miguel Aguilera"
+permalink: /projects/phd.html
 ---
 
 ### Abstract
