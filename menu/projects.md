@@ -6,7 +6,7 @@ title: Projects
 
 <div class="posts">
 <!--    <div class="thumbnail-container">-->
-    <a href="/projects/dimesive.html"><img src="{{ site.github.url }}/assets/img/dimensive-sussex.png"></a>
+    <a href="/projects/dimesive.html"><img src="{{ site.github.url }}/assets/img/dimensive-sussex.png" height="300"></a>
 <!--    </div>-->
   <h3>
     <a href="/projects/dimesive.html">DIMENSIVE: Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments</a>
@@ -19,7 +19,7 @@ title: Projects
     <a href="/projects/ehu.html">Criticality, phase transitions and information integration for modelling autonomy and agency</a>
   </h3>
 <!--  <div class="thumbnail-container">-->
-    <a href="/projects/ehu.html"><img src="{{ site.github.url }}/assets/img/project-agency-stat-phys.png"></a>
+    <a href="/projects/ehu.html"><img src="{{ site.github.url }}/assets/img/project-agency-stat-phys.png" height="300"></a>
 <!--  </div>-->
 </div>
 
@@ -28,6 +28,6 @@ title: Projects
     <a href="/projects/phd.html">Interaction Dynamics and Autonomy in Cognitive Systems</a>
   </h3>
 <!--  <div class="thumbnail-container">-->
-    <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/thesis-chart.png"></a>
+    <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/thesis-chart.png" height="300"></a>
 <!--  </div>-->
 </div>
