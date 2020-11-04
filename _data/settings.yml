@@ -10,6 +10,7 @@ menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Publications', path: 'menu', url: 'publications.html'}
 - {name: 'Projects', path: 'menu', url: 'projects.html'}
+- {name: 'Code & Data', path: 'menu', url: 'repositories.html'}
 - {name: 'Blog', path: 'menu', url: 'blog.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
