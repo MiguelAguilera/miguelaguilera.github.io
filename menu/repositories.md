@@ -31,7 +31,7 @@ Here you can find different code and data repositories related to my papers and 
 
 <div class="posts">
     <h3>
-    <a href="https://github.com/IsaacLab/LaboratorioIntangible" target="_blank">Artificial life Summer school</a>.
+    <a href="https://github.com/IsaacLab/LaboratorioIntangible" target="_blank">Artificial life summer school</a>.
     </h3>
     <p> This repository contains code and theory from the <a href="http://escueladeverano.unizar.es/" target="_blank">Intangible lab</a> summer school on artificial life held in Etopia (Zaragoza) in 2017.</p>
     
