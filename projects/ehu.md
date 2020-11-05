@@ -25,5 +25,3 @@ A description of the project can be found [here](https://maguilera0.files.wordpr
 
 1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://doi.org/10.3389/fnbot.2018.00055">Exploring Criticality as a Generic Adaptive Mechanism</a>.<em> Frontiers in Neurorobotics</em> 12: 55. doi:10.3389/fnbot.2018.00055
 
-1. Aguilera M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76. doi: 10.3389/fnsys.2016.00076
-
