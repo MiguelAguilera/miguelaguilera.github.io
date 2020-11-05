@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="https://maguilera.net/img/sm-loop.png" width="150"  alt="sensorimotor loop" align="right" />
+<img src="https://maguilera.net/img/sm-loop.png" width="160"  alt="sensorimotor loop" align="right" />
 
 I am a researcher working at the interface of areas like complex systems, computational neuroscience and cognitive science. I'm interested in understanding the emergence of adaptive behaviour, autonomy and agency at different levels of living entities - from biological to mental and social life. I combine nonlinear, dynamical computational models with methods from statistical physics, information theory and dynamical systems theory, to generate and understand situated and embodied models of agency in neuroscience, artificial life, robotics and collective systems.
 
