@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Criticality, phase transitions and integrated information for modelling autonomy and agency"
+title: "Information Theory and Maximum Entropy Modelling in Embodied Organisms"
 author: "Miguel Aguilera"
 permalink: /projects/ehu.html
 ---
