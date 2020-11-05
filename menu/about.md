@@ -3,11 +3,14 @@ layout: page
 title: About
 ---
 
+<img src="https://maguilera.net/img/sm-loop.png" width="300"  alt="sensorimotor loop" align="right" />
+
 I am a researcher working at the interface of areas like complex systems, computational neuroscience and cognitive science. I'm interested in understanding the emergence of adaptive behaviour, autonomy and agency at different levels of living entities - from biological to mental and social life. I combine nonlinear, dynamical computational models with methods from statistical physics, information theory and dynamical systems theory, to generate and understand situated and embodied models of agency in neuroscience, artificial life, robotics and collective systems.
 
-<img src="https://maguilera.net/img/agency.png" width="300"  alt="agency" align="right" />
-
 I am currently a Marie Skłodowska-Curie research fellow at the University of Sussex in the [Department of Informatics](http://www.sussex.ac.uk/informatics/) and [Sussex Neuroscience](http://www.sussex.ac.uk/sussexneuroscience/) working with [Chris Buckley](https://christopherlbuckley.com/). I have worked in the past as a postdoc at the [IAS-Research Center for Life, Mind and Society](http://www.ias-research.net/) under the supervision of [Ezequiel Di Paolo](https://ezequieldipaolo.net/), the [Institute for Cross-Disciplinary Physics and Complex Systems](https://ifisc.uib-csic.es/en/) with [Toni Gomila](https://antonigomila.wordpress.com/) and the [Aragon Institute of Engineering Research](https://i3a.unizar.es/) with Manuel Bedia. During this time, I had the chance to visit and collaborate with [Hideaki Shimazaki](http://www.neuralengine.org/index_en.html)'s lab at the [Kyoto University Cooperative Intelligence Research Chair.](http://ci.ist.i.kyoto-u.ac.jp/index.php?id=10)
+
+
+<img src="https://maguilera.net/img/agency.png" width="300"  alt="agency" align="right" />
 
 Previously, I did my PhD funded by a FPU grant from the Spanish Education Ministry, entitled [Interaction Dynamics and Autonomy in Cognitive Systems](http://phdthesis.maguilera.net/), focused on the development of operational models of sensorimotor agency, co-supervised by Manuel Bedia and [Xabier Barandiaran](https://xabier.barandiaran.net). During my PhD thesis I had the opportunity to do research visits at [Randall Beer's Lab](http://mypage.iu.edu/~rdbeer/) in the Cognitive Science Program at Indiana University, and [Takashi Ikegami's Laboratory](http://sacral.c.u-tokyo.ac.jp/) at the University of Tokyo. As well, I participated in the [Datanalysis15M](http://datanalysis15m.wordpress.com/) research network, applying complex systems tools to complex social networks related to the 15M movement in Spain.
 
