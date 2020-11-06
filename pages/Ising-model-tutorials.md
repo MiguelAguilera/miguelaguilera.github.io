@@ -16,7 +16,7 @@ Some tutorials :
 * Chapter 31 of [this book](http://www.inference.org.uk/itprnn/book.pdf) from David MacKay.
 * An [introduction](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/isingIntro.pdf) by Barry Cipra.
 * A [video lecture](https://www.youtube.com/results?search_query=ising+model+neurons) by Leonard Susskind.
-* Chapter 1 of [this book](https://cdn.preterhuman.net/texts/science_and_technology/physics/Statistical_physics/Statistical%20physics%20of%20spin%20glasses%20and%20information%20processing%20an%20introduction%20-%20Nishimori%20H..pdf) by Hidetoshi Nishimori.
+* Chapter 1 of [this book](https://cdn.preterhuman.net/texts/science_and_technology/physics/Statistical_physics/Statistical%20physics%20of%20spin%20glasses%20and%20information%20processing%20an%20introduction%20-%20Nishimori%20H..pdf) by Hidetoshi Nishimori on mean-field approximations.
 
 #### Applications
 * Machine learning Ising models to capture phase transitions in real neural networks, [paper](https://arxiv.org/abs/1012.2242) and [video lecture](https://www.youtube.com/watch?v=SZ74VtNffbY) by William Bialek.
