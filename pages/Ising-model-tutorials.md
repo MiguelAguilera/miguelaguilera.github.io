@@ -9,7 +9,7 @@ Here I compile some introductory materials to Botlzmann machines and Ising model
 #### Botlzmann machines
 
 Some tutorials :
-* An [introduction to Boltmzann machines ](https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf) by Geoffrey Hinton (University of Toronto and Google Brain).
+* An [introduction to Boltmzann machines ](https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf) by Geoffrey Hinton.
 * Some video lectures from this old [course on neural networks](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) (from video 11a onwards) also by Geoffrey Hinton.
 
 #### Ising models
