@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutorials on Ising models and Boltzmann machines
-/projects/Ising-model-tutorials.html
+/pages/Ising-model-tutorials.html
 ---
 
 Here I compile some introductory materials to Botlzmann machines and Ising models aimed for students.
