@@ -8,6 +8,8 @@ permalink: /projects/msca.html
 
 <img src="{{ site.github.url }}/assets/img/dimensive-sussex.png">
 
+<a href="https://cordis.europa.eu/project/id/892715"><img src="https://img.shields.io/badge/DIMENSIVE-grant%20no.%20892715-blue.svg"></a>
+
 This project has been funded by [MSCA-IF grant](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) at the [University of Sussex](https://www.sussex.ac.uk/).
 The project aims to apply information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed loop behavior, e.g. trying to apply theoretical methods for approximating the behaviour of very large networks and inferring their parameters from experimental data.
 
