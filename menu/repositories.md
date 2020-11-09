@@ -11,7 +11,10 @@ Here you can find different code and data repositories related to my papers and 
     <h3>
     <a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance/tree/v1.0" target="_blank">Tuning agents to criticality</a>.
     </h3>
-    <p><a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance/tree/v1.0" target="_blank">Adaptation to criticality through organizational invariance</a>. <a href="https://doi.org/10.5281/zenodo.4252069"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4252069.svg"></a>
+    <p><a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance/tree/v1.0" target="_blank">Adaptation to criticality through organizational invariance</a>. 
+    <a href="https://doi.org/10.5281/zenodo.4252069"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4252069.svg"></a>
+    <a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-green.svg"></a>
+    <img src="https://img.shields.io/badge/code-python-dark.svg">
     <br>Code reproducing the models in Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4#Abs1" target="_blank">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).</p>
 
 <!--<br>-->
