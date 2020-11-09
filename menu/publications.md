@@ -6,40 +6,40 @@ title: Publications
 ### Journal Publications
 
 1. Aguilera, M &amp; Di Paolo, EA (2019). <a href="https://doi.org/10.1016/j.neunet.2019.03.001" target="_blank" rel="noopener noreferrer">Integrated information in the thermodynamic limit</a>. <i>Neural Networks</i>, Volume 114, pp 136-146.\
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightblue.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
 
 1. Aguilera, M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198.\
-[![DOI](https://img.shields.io/badge/DOI-10.3390/e21121198-lightblue.svg)](https://doi.org/10.3390/e21121198)
+[![DOI](https://img.shields.io/badge/DOI-10.3390/e21121198-lightgreen.svg)](https://doi.org/10.3390/e21121198)
 
 1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4" target="_blank" rel="noopener noreferrer">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).\
-[![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightblue.svg)](https://doi.org/10.1038/s41598-018-25925-4)
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
 
 1. Aguilera, M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="noopener noreferrer">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509.\
-[![DOI](https://img.shields.io/badge/DOI-10.1155/2018/4212509-lightblue.svg)](https://doi.org/10.1155/2018/4212509)
+[![DOI](https://img.shields.io/badge/DOI-10.1155/2018/4212509-lightgreen.svg)](https://doi.org/10.1155/2018/4212509)
 
 1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://doi.org/10.3389/fnbot.2018.00055">Exploring Criticality as a Generic Adaptive Mechanism</a>.<em> Frontiers in Neurorobotics</em> 12: 55.\
-[![DOI](https://img.shields.io/badge/DOI-10.3389/fnbot.2018.00055-lightblue.svg)](https://doi.org/10.3389/fnbot.2018.00055)
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fnbot.2018.00055-lightgreen.svg)](https://doi.org/10.3389/fnbot.2018.00055)
 
 1. Aguilera M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76.\
-[![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightblue.svg)](https://doi.org/10.3389/fnsys.2016.00076)
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
 
 1. Monterde, A, Calleja-López, A, Aguilera, M, Barandiaran, XE, &amp; Postill, J (2015). <a href="https://maguilera0.files.wordpress.com/2015/11/monterde_etal_2015_multitudinous_identities.pdf" target="_blank" rel="noopener noreferrer">Multitudinous identities: a qualitative and network analysis of the 15M collective identity</a>. <em>Information, Communication and Society</em>.\
-[![DOI](https://img.shields.io/badge/DOI-10.1080/1369118X.2015.1043315-lightblue.svg)](https://doi.org/10.1080/1369118X.2015.1043315)
+[![DOI](https://img.shields.io/badge/DOI-10.1080/1369118X.2015.1043315-lightgreen.svg)](https://doi.org/10.1080/1369118X.2015.1043315)
 
 1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://maguilera0.files.wordpress.com/2015/03/journal-pone-0117465.pdf" target="_blank" rel="noopener noreferrer"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465.\
-[![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightblue.svg)](https://doi.org/10.1371/journal.pone.0117465)
+[![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightgreen.svg)](https://doi.org/10.1371/journal.pone.0117465)
 
 1. Bedia, MG, Aguilera, M, Gomez, T, Larrode, DG, &amp; Seron, F (2014). <a href="https://maguilera0.files.wordpress.com/2014/11/fpsyg-05-01281.pdf" target="_blank" rel="noopener noreferrer">Quantifying long-range correlations and 1/f patterns in a minimal experiment of social interaction</a>. <em>Frontiers in Psychology</em>, 5, 1281.\
-[![DOI](https://img.shields.io/badge/DOI-10.3389/fpsyg.2014.01281-lightblue.svg)](https://doi.org/10.3389/fpsyg.2014.01281)
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fpsyg.2014.01281-lightgreen.svg)](https://doi.org/10.3389/fpsyg.2014.01281)
 
 1. Aguilera, M, Bedia, MG, Barandiaran, XE. &amp; Serón, F (2014). <a href="https://maguilera0.files.wordpress.com/2012/11/adjustment-deployment-dilemma.pdf">Intermittent animal behaviour: the adjustment deployment dilemma</a>.<em> Artificial Life, </em>20(4), 471–489.\
-[![DOI](https://img.shields.io/badge/DOI-10.1162/ARTL_a_00133-lightblue.svg)](https://doi.org/10.1162/ARTL_a_00133)
+[![DOI](https://img.shields.io/badge/DOI-10.1162/ARTL_a_00133-lightgreen.svg)](https://doi.org/10.1162/ARTL_a_00133)
 
 1. Aguilera, M, Bedia, MG, Santos, BA, Barandiaran, XE (2013).<a href="http://maguilera0.files.wordpress.com/2012/11/fncom-07-00117.pdf" target="_blank" rel="noopener noreferrer"> The Situated HKB Model: how sensorimotor spatial coupling can alter oscillatory brain dynamics</a>. <i>Frontiers in Computational Neuroscience</i> 7 (2013): 117.\
-[![DOI](https://img.shields.io/badge/DOI-10.3389/fncom.2013.00117-lightblue.svg)](https://doi.org/10.3389/fncom.2013.00117)
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fncom.2013.00117-lightgreen.svg)](https://doi.org/10.3389/fncom.2013.00117)
 
 1. Santos, BA, Barandiaran, XE, Husbands, P, Aguilera, M &amp; Bedia, M G. (2012). <a href="http://maguilera0.files.wordpress.com/2013/06/metastability_situated-hkb_connection-science.pdf" target="_blank" rel="noopener noreferrer">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>.\
-[![DOI](https://img.shields.io/badge/DOI-10.1080/09540091.2013.770821-lightblue.svg)](https://doi.org/10.1080/09540091.2013.770821)
+[![DOI](https://img.shields.io/badge/DOI-10.1080/09540091.2013.770821-lightgreen.svg)](https://doi.org/10.1080/09540091.2013.770821)
 
 
 ### Conference Publications
