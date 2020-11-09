@@ -7,6 +7,7 @@ title: Publications
 
 1. Aguilera, M &amp; Di Paolo, EA (2019). <a href="https://doi.org/10.1016/j.neunet.2019.03.001" target="_blank" rel="noopener noreferrer">Integrated information in the thermodynamic limit</a>. <i>Neural Networks</i>, Volume 114, pp 136-146.\
 <a href="https://doi.org/10.1016/j.neunet.2019.03.001"><img src="https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightblue.svg"></a>
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightblue.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
 
 1. Aguilera, M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198.\
 <a href="https://doi.org/10.3390/e21121198"><img src="https://img.shields.io/badge/DOI-10.3390/e21121198-lightblue.svg"></a>
