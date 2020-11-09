@@ -11,7 +11,7 @@ title: Publications
 1. Aguilera, M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198.
 <a href="https://doi.org/10.3390/e21121198"><img src="https://img.shields.io/badge/DOI-10.3390/e21121198-blue.svg"></a>
 
-1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4#Abs1" target="_blank" rel="noopener noreferrer">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).
+1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4" target="_blank" rel="noopener noreferrer">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).
 <a href="https://doi.org/10.1038/s41598-018-25925-4"><img src="https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-blue.svg"></a>
 
 1. Aguilera, M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="noopener noreferrer">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509.
