@@ -31,7 +31,7 @@ title: Projects
     <a href="/projects/phd.html"><img src="{{ site.github.url }}/assets/img/uz-project.png"></a>
     <a href="/projects/phd.html">Interaction Dynamics and Autonomy in Cognitive Systems</a>.
     <br>  PhD project funded by the Spanish FPU program.
-    <br><img src="https://img.shields.io/badge/FPU--2010-AP2010-6036-blue.svg">
+    <br><img src="https://img.shields.io/badge/FPU--2010-AP2010--6036-blue.svg">
   <p class="post-date"><span>Funding entity: 
 Spanish Ministry of Education. Duration: 2011-2015.</span></p>
 </li>
