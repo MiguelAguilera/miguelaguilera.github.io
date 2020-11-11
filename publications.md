@@ -5,66 +5,66 @@ title: Publications
 
 ### Journal Publications
 
-1. Aguilera, M &amp; Di Paolo, EA (2019). <a href="https://doi.org/10.1016/j.neunet.2019.03.001" target="_blank" rel="noopener noreferrer">Integrated information in the thermodynamic limit</a>. <i>Neural Networks</i>, Volume 114, pp 136-146.\
+1. Aguilera, M &amp; Di Paolo, EA (2019). <a href="https://doi.org/10.1016/j.neunet.2019.03.001" target="_blank" rel="nofollow noopener">Integrated information in the thermodynamic limit</a>. <i>Neural Networks</i>, Volume 114, pp 136-146.\
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
 
-1. Aguilera, M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198.\
+1. Aguilera, M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="nofollow noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198.\
 [![DOI](https://img.shields.io/badge/DOI-10.3390/e21121198-lightgreen.svg)](https://doi.org/10.3390/e21121198)
 
-1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4" target="_blank" rel="noopener noreferrer">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).\
+1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4" target="_blank" rel="nofollow noopener">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).\
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
 
-1. Aguilera, M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="noopener noreferrer">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509.\
+1. Aguilera, M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="nofollow noopener">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509.\
 [![DOI](https://img.shields.io/badge/DOI-10.1155/2018/4212509-lightgreen.svg)](https://doi.org/10.1155/2018/4212509)
 
-1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://doi.org/10.3389/fnbot.2018.00055">Exploring Criticality as a Generic Adaptive Mechanism</a>.<em> Frontiers in Neurorobotics</em> 12: 55.\
+1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://doi.org/10.3389/fnbot.2018.00055"  target="_blank" rel="nofollow noopener">Exploring Criticality as a Generic Adaptive Mechanism</a>.<em> Frontiers in Neurorobotics</em> 12: 55.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fnbot.2018.00055-lightgreen.svg)](https://doi.org/10.3389/fnbot.2018.00055)
 
-1. Aguilera M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76.\
+1. Aguilera M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
 
-1. Monterde, A, Calleja-López, A, Aguilera, M, Barandiaran, XE, &amp; Postill, J (2015). <a href="https://maguilera0.files.wordpress.com/2015/11/monterde_etal_2015_multitudinous_identities.pdf" target="_blank" rel="noopener noreferrer">Multitudinous identities: a qualitative and network analysis of the 15M collective identity</a>. <em>Information, Communication and Society</em>.\
+1. Monterde, A, Calleja-López, A, Aguilera, M, Barandiaran, XE, &amp; Postill, J (2015). <a href="files/monterde_etal_2015_multitudinous_identities.pdf"  target="_blank" rel="nofollow noopener">Multitudinous identities: a qualitative and network analysis of the 15M collective identity</a>. <em>Information, Communication and Society</em>.\
 [![DOI](https://img.shields.io/badge/DOI-10.1080/1369118X.2015.1043315-lightgreen.svg)](https://doi.org/10.1080/1369118X.2015.1043315)
 
-1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://maguilera0.files.wordpress.com/2015/03/journal-pone-0117465.pdf" target="_blank" rel="noopener noreferrer"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465.\
+1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://maguilera0.files.wordpress.com/2015/03/journal-pone-0117465.pdf"  target="_blank" rel="nofollow noopener"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465.\
 [![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightgreen.svg)](https://doi.org/10.1371/journal.pone.0117465)
 
-1. Bedia, MG, Aguilera, M, Gomez, T, Larrode, DG, &amp; Seron, F (2014). <a href="https://maguilera0.files.wordpress.com/2014/11/fpsyg-05-01281.pdf" target="_blank" rel="noopener noreferrer">Quantifying long-range correlations and 1/f patterns in a minimal experiment of social interaction</a>. <em>Frontiers in Psychology</em>, 5, 1281.\
+1. Bedia, MG, Aguilera, M, Gomez, T, Larrode, DG, &amp; Seron, F (2014). <a href="https://maguilera0.files.wordpress.com/2014/11/fpsyg-05-01281.pdf"  target="_blank" rel="nofollow noopener">Quantifying long-range correlations and 1/f patterns in a minimal experiment of social interaction</a>. <em>Frontiers in Psychology</em>, 5, 1281.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fpsyg.2014.01281-lightgreen.svg)](https://doi.org/10.3389/fpsyg.2014.01281)
 
-1. Aguilera, M, Bedia, MG, Barandiaran, XE. &amp; Serón, F (2014). <a href="https://maguilera0.files.wordpress.com/2012/11/adjustment-deployment-dilemma.pdf">Intermittent animal behaviour: the adjustment deployment dilemma</a>.<em> Artificial Life, </em>20(4), 471–489.\
+1. Aguilera, M, Bedia, MG, Barandiaran, XE. &amp; Serón, F (2014). <a href="https://maguilera0.files.wordpress.com/2012/11/adjustment-deployment-dilemma.pdf"  target="_blank" rel="nofollow noopener">Intermittent animal behaviour: the adjustment deployment dilemma</a>.<em> Artificial Life, </em>20(4), 471–489.\
 [![DOI](https://img.shields.io/badge/DOI-10.1162/ARTL_a_00133-lightgreen.svg)](https://doi.org/10.1162/ARTL_a_00133)
 
-1. Aguilera, M, Bedia, MG, Santos, BA, Barandiaran, XE (2013).<a href="http://maguilera0.files.wordpress.com/2012/11/fncom-07-00117.pdf" target="_blank" rel="noopener noreferrer"> The Situated HKB Model: how sensorimotor spatial coupling can alter oscillatory brain dynamics</a>. <i>Frontiers in Computational Neuroscience</i> 7 (2013): 117.\
+1. Aguilera, M, Bedia, MG, Santos, BA, Barandiaran, XE (2013).<a href="http://maguilera0.files.wordpress.com/2012/11/fncom-07-00117.pdf"  target="_blank" rel="nofollow noopener"> The Situated HKB Model: how sensorimotor spatial coupling can alter oscillatory brain dynamics</a>. <i>Frontiers in Computational Neuroscience</i> 7 (2013): 117.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fncom.2013.00117-lightgreen.svg)](https://doi.org/10.3389/fncom.2013.00117)
 
-1. Santos, BA, Barandiaran, XE, Husbands, P, Aguilera, M &amp; Bedia, M G. (2012). <a href="http://maguilera0.files.wordpress.com/2013/06/metastability_situated-hkb_connection-science.pdf" target="_blank" rel="noopener noreferrer">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>.\
+1. Santos, BA, Barandiaran, XE, Husbands, P, Aguilera, M &amp; Bedia, M G. (2012). <a href="http://maguilera0.files.wordpress.com/2013/06/metastability_situated-hkb_connection-science.pdf" target="_blank" rel="nofollow noopener">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>.\
 [![DOI](https://img.shields.io/badge/DOI-10.1080/09540091.2013.770821-lightgreen.svg)](https://doi.org/10.1080/09540091.2013.770821)
 
 
 ### Conference Publications
 
-1. Aguilera, M., Arandia-Romero, I. and Heras-Escribano, M (2019). <a href="https://doi.org/10.1162/isal_a_00136" target="_blank" rel="noopener">Quantifying affordances through information theory</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 11-12.
+1. Aguilera, M., Arandia-Romero, I. and Heras-Escribano, M (2019). <a href="https://doi.org/10.1162/isal_a_00136"  target="_blank" rel="nofollow noopener">Quantifying affordances through information theory</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 11-12.
 
-1. Bedia, M. G., Heras-Escribano, M., Cajal, D., Aguilera, M., &amp; Barandiaran, X. E. (2019). <a href="https://doi.org/10.1162/isal_a_00185" target="_blank" rel="noopener">Towards modelling social habits: An organismically inspired evolutionary robotics approach</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 341-348.
+1. Bedia, M. G., Heras-Escribano, M., Cajal, D., Aguilera, M., &amp; Barandiaran, X. E. (2019). <a href="https://doi.org/10.1162/isal_a_00185"  target="_blank" rel="nofollow noopener">Towards modelling social habits: An organismically inspired evolutionary robotics approach</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 341-348.
 
-1. Aguilera, M &amp; Di Paolo, E (2018). <a href="https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00030" target="_blank" rel="noopener noreferrer">Integrated Information and Autonomy in the Thermodynamic Limit </a>. <em>The 2018 Conference on Artificial Life: A Hybrid of the European Conference on Artificial Life (ECAL) and the International Conference on the Synthesis and Simulation of Living Systems (ALIFE)</em> 2018: 113-120.
+1. Aguilera, M &amp; Di Paolo, E (2018). <a href="https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00030"  target="_blank" rel="nofollow noopener">Integrated Information and Autonomy in the Thermodynamic Limit </a>. <em>The 2018 Conference on Artificial Life: A Hybrid of the European Conference on Artificial Life (ECAL) and the International Conference on the Synthesis and Simulation of Living Systems (ALIFE)</em> 2018: 113-120.
 
-1. Aguilera, M, Alquézar, C &amp; Bedia, MG (2018). <a href="https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00077" target="_blank" rel="noopener noreferrer">Agency and Integrated Information in a Minimal Sensorimotor Model</a>. <em>The 2018 Conference on Artificial Life: A Hybrid of the European Conference on Artificial Life (ECAL) and the International Conference on the Synthesis and Simulation of Living Systems (ALIFE)</em> 2018: 396-403
+1. Aguilera, M, Alquézar, C &amp; Bedia, MG (2018). <a href="https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00077" target="_blank" rel="nofollow noopener">Agency and Integrated Information in a Minimal Sensorimotor Model</a>. <em>The 2018 Conference on Artificial Life: A Hybrid of the European Conference on Artificial Life (ECAL) and the International Conference on the Synthesis and Simulation of Living Systems (ALIFE)</em> 2018: 396-403
 
-1. Aguilera, M &amp; Bedia MG (2017). <a href="http://cognet.mit.edu/sites/default/files/journalpdfs/ecal_a_009.pdf" target="_blank" rel="noopener noreferrer">Criticality as It Could Be: organizational invariance as self-organized criticality in embodied agents</a>. In Knibbe et al. (Eds.) <em>Proceedings of the 14th European Conference on Artificial Life 2017</em>.
+1. Aguilera, M &amp; Bedia MG (2017). <a href="http://cognet.mit.edu/sites/default/files/journalpdfs/ecal_a_009.pdf"  target="_blank" rel="nofollow noopener">Criticality as It Could Be: organizational invariance as self-organized criticality in embodied agents</a>. In Knibbe et al. (Eds.) <em>Proceedings of the 14th European Conference on Artificial Life 2017</em>.
 
-1. Aguilera, M, Alquézar, C &amp; Izquierdo, E (2017). <a href="http://cognet.mit.edu/sites/default/files/journalpdfs/ecal_a_010.pdf" target="_blank" rel="noopener noreferrer">Signatures of criticality in a maximum entropy model of the C. elegans brain during free behaviour</a>. In Knibbe et al. (Eds.) <em>Proceedings of the 14th European Conference on Artificial Life 2017</em>.
+1. Aguilera, M, Alquézar, C &amp; Izquierdo, E (2017). <a href="http://cognet.mit.edu/sites/default/files/journalpdfs/ecal_a_010.pdf"  target="_blank" rel="nofollow noopener">Signatures of criticality in a maximum entropy model of the C. elegans brain during free behaviour</a>. In Knibbe et al. (Eds.) <em>Proceedings of the 14th European Conference on Artificial Life 2017</em>.
 
-1. Gómez, T, Aguilera, M, Bedia MG &amp; Gomila, A (2017). <a href="http://cognet.mit.edu/sites/default/files/journalpdfs/ecal_a_082.pdf" target="_blank" rel="noopener noreferrer">The Statistical Thermodynamics of Active Perception</a>. In Knibbe et al. (Eds.) <em>Proceedings of the 14th European Conference on Artificial Life 2017</em>.
+1. Gómez, T, Aguilera, M, Bedia MG &amp; Gomila, A (2017). <a href="http://cognet.mit.edu/sites/default/files/journalpdfs/ecal_a_082.pdf"  target="_blank" rel="nofollow noopener">The Statistical Thermodynamics of Active Perception</a>. In Knibbe et al. (Eds.) <em>Proceedings of the 14th European Conference on Artificial Life 2017</em>.
 
-1. Izquierdo, EJ, Aguilera, M and Beer, RD (2013). <a href="http://maguilera0.files.wordpress.com/2012/11/izquierdoecal2013.pdf" target="_blank" rel="noopener noreferrer">Analysis of ultrastability in small dynamical recurrent neural networks</a>. In P. Lio, O. Miglino, G. Nicosia, S. Nolfi &amp; M. Pavone (Eds.), <i>Advances in Artificial Life: ECAL 2013</i> (pp. 51-58).
+1. Izquierdo, EJ, Aguilera, M and Beer, RD (2013). <a href="http://maguilera0.files.wordpress.com/2012/11/izquierdoecal2013.pdf"  target="_blank" rel="nofollow noopener">Analysis of ultrastability in small dynamical recurrent neural networks</a>. In P. Lio, O. Miglino, G. Nicosia, S. Nolfi &amp; M. Pavone (Eds.), <i>Advances in Artificial Life: ECAL 2013</i> (pp. 51-58).
 
-1. Aguilera, M, Morer, I, Barandiaran, XE &amp; Bedia, MG (2013). <a href="http://maguilera0.files.wordpress.com/2012/11/main.pdf" target="_blank" rel="noopener noreferrer">Quantifying Political Self-Organization in Social Media. Fractal patterns in the Spanish 15M movement on Twitter</a>. In P. Lio, O. Miglino, G. Nicosia, S. Nolfi &amp; M. Pavone (Eds.), <i>Advances in Artificial Life: ECAL 2013</i> (pp. 395-402).
+1. Aguilera, M, Morer, I, Barandiaran, XE &amp; Bedia, MG (2013). <a href="http://maguilera0.files.wordpress.com/2012/11/main.pdf"  target="_blank" rel="nofollow noopener">Quantifying Political Self-Organization in Social Media. Fractal patterns in the Spanish 15M movement on Twitter</a>. In P. Lio, O. Miglino, G. Nicosia, S. Nolfi &amp; M. Pavone (Eds.), <i>Advances in Artificial Life: ECAL 2013</i> (pp. 395-402).
 
 1. Castillo, LF, Isaza, AL, Bedia, MG, Aguilera, M Correa, J (2012). Grid Computing and CBR Deployment: Monitoring Principles for a Suitable Engagement. 9TH Distributed Computing and Artificial Intelligence. <em>Advances in Intelligent and Soft Computing</em>, 2012, Volume 51/2012, 355-361.
 
-1. Aguilera, M, Bedia, MG, Barandiaran, XE &amp; Serón, F (2011). <a href="http://maguilera0.files.wordpress.com/2012/11/aguilera_etal_-_2011_-_the_adjustment-deployment_dilemma_in_organisms_behaviour_-_.pdf" target="_blank" rel="noopener noreferrer">The adjustment-deployment dilemma in organism’s behaviour: theoretical characterization and minimal model</a>.<em> Proceedings of the IEEE Symposium on Artificial Life</em>, pp. 116-123.
+1. Aguilera, M, Bedia, MG, Barandiaran, XE &amp; Serón, F (2011). <a href="http://maguilera0.files.wordpress.com/2012/11/aguilera_etal_-_2011_-_the_adjustment-deployment_dilemma_in_organisms_behaviour_-_.pdf" target="_blank" rel="nofollow noopener">The adjustment-deployment dilemma in organism’s behaviour: theoretical characterization and minimal model</a>.<em> Proceedings of the IEEE Symposium on Artificial Life</em>, pp. 116-123.
 
 1. Castillo, LF, Bedia, MG, Aguilera, M, &amp; Uribe, AL (2011). A proposal for improving retrieval processes in case-based reasoning systems able to act in dynamic environments. <em>Proceedings of the International Symposium on Distributed Computing and Artificial Intelligence 2011</em>.
 
