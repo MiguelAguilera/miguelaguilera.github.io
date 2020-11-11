@@ -23,22 +23,22 @@ title: Publications
 1. Aguilera M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
 
-1. Monterde, A, Calleja-López, A, Aguilera, M, Barandiaran, XE, &amp; Postill, J (2015). <a href="files/monterde_etal_2015_multitudinous_identities.pdf"  target="_blank" rel="nofollow noopener">Multitudinous identities: a qualitative and network analysis of the 15M collective identity</a>. <em>Information, Communication and Society</em>.\
+1. Monterde, A, Calleja-López, A, Aguilera, M, Barandiaran, XE, &amp; Postill, J (2015). <a href="files/monterde_etal_2015_multitudinous_identities.pdf"  target="_blank">Multitudinous identities: a qualitative and network analysis of the 15M collective identity</a>. <em>Information, Communication and Society</em>.\
 [![DOI](https://img.shields.io/badge/DOI-10.1080/1369118X.2015.1043315-lightgreen.svg)](https://doi.org/10.1080/1369118X.2015.1043315)
 
-1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://maguilera0.files.wordpress.com/2015/03/journal-pone-0117465.pdf"  target="_blank" rel="nofollow noopener"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465.\
+1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://doi.org/10.1371/journal.pone.0117465"  target="_blank" rel="nofollow noopener"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465.\
 [![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightgreen.svg)](https://doi.org/10.1371/journal.pone.0117465)
 
-1. Bedia, MG, Aguilera, M, Gomez, T, Larrode, DG, &amp; Seron, F (2014). <a href="https://maguilera0.files.wordpress.com/2014/11/fpsyg-05-01281.pdf"  target="_blank" rel="nofollow noopener">Quantifying long-range correlations and 1/f patterns in a minimal experiment of social interaction</a>. <em>Frontiers in Psychology</em>, 5, 1281.\
+1. Bedia, MG, Aguilera, M, Gomez, T, Larrode, DG, &amp; Seron, F (2014). <a href="https://doi.org/10.3389/fpsyg.2014.01281"  target="_blank" rel="nofollow noopener">Quantifying long-range correlations and 1/f patterns in a minimal experiment of social interaction</a>. <em>Frontiers in Psychology</em>, 5, 1281.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fpsyg.2014.01281-lightgreen.svg)](https://doi.org/10.3389/fpsyg.2014.01281)
 
-1. Aguilera, M, Bedia, MG, Barandiaran, XE. &amp; Serón, F (2014). <a href="https://maguilera0.files.wordpress.com/2012/11/adjustment-deployment-dilemma.pdf"  target="_blank" rel="nofollow noopener">Intermittent animal behaviour: the adjustment deployment dilemma</a>.<em> Artificial Life, </em>20(4), 471–489.\
+1. Aguilera, M, Bedia, MG, Barandiaran, XE. &amp; Serón, F (2014). <a href="files/adjustment-deployment-dilemma.pdf"  target="_blank">Intermittent animal behaviour: the adjustment deployment dilemma</a>.<em> Artificial Life, </em>20(4), 471–489.\
 [![DOI](https://img.shields.io/badge/DOI-10.1162/ARTL_a_00133-lightgreen.svg)](https://doi.org/10.1162/ARTL_a_00133)
 
-1. Aguilera, M, Bedia, MG, Santos, BA, Barandiaran, XE (2013).<a href="http://maguilera0.files.wordpress.com/2012/11/fncom-07-00117.pdf"  target="_blank" rel="nofollow noopener"> The Situated HKB Model: how sensorimotor spatial coupling can alter oscillatory brain dynamics</a>. <i>Frontiers in Computational Neuroscience</i> 7 (2013): 117.\
+1. Aguilera, M, Bedia, MG, Santos, BA, Barandiaran, XE (2013).<a href="https://doi.org/10.3389/fncom.2013.00117"  target="_blank" rel="nofollow noopener"> The Situated HKB Model: how sensorimotor spatial coupling can alter oscillatory brain dynamics</a>. <i>Frontiers in Computational Neuroscience</i> 7 (2013): 117.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fncom.2013.00117-lightgreen.svg)](https://doi.org/10.3389/fncom.2013.00117)
 
-1. Santos, BA, Barandiaran, XE, Husbands, P, Aguilera, M &amp; Bedia, M G. (2012). <a href="http://maguilera0.files.wordpress.com/2013/06/metastability_situated-hkb_connection-science.pdf" target="_blank" rel="nofollow noopener">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>.\
+1. Santos, BA, Barandiaran, XE, Husbands, P, Aguilera, M &amp; Bedia, M G. (2012). <a href="https://doi.org/10.1080/09540091.2013.770821" target="_blank" rel="nofollow noopener">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>.\
 [![DOI](https://img.shields.io/badge/DOI-10.1080/09540091.2013.770821-lightgreen.svg)](https://doi.org/10.1080/09540091.2013.770821)
 
 
