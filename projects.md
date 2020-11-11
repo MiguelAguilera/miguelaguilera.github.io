@@ -8,7 +8,7 @@ title: Projects
 <br>
 
 <li itemscope>
-    <a href="/projects/msca.html"><img src="{{ site.github.url }}/assets/img/dimensive-sussex.png"></a>
+    <a href="/projects/msca.html"><img src="{{ site.github.url }}/assets/img/dimensive-sussex.png" alt="Marie Skłodowska Curie Action"></a>
     <a href="/projects/msca.html">DIMENSIVE: Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments</a>. 
     <br>MSCA IF action focused on applying information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed look behavior.
   <br><a href="https://cordis.europa.eu/project/id/892715"><img src="https://img.shields.io/badge/MSCA--IF--2019-grant%20no.%20892715-blue.svg"></a> 
