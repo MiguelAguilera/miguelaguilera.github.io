@@ -16,7 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope', link: '/menu/contact.html'}
+- {icon: 'envelope', link: '/contact'}
 - {icon: 'github', link: 'https://www.github.com/MiguelAguilera'}
 - {icon: 'twitter', link: 'https://twitter.com/m_aguilera_'}
 - {icon: 'rss-square', link: '/feed.xml'}
