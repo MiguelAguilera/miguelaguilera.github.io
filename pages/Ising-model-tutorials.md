@@ -18,6 +18,8 @@ Here I compile some introductory materials to Botlzmann machines and Ising model
 * Chapter 1 of [this book](https://cdn.preterhuman.net/texts/science_and_technology/physics/Statistical_physics/Statistical%20physics%20of%20spin%20glasses%20and%20information%20processing%20an%20introduction%20-%20Nishimori%20H..pdf) by Hidetoshi Nishimori on mean-field approximations.
 
 #### Applications
-* Machine learning Ising models to capture phase transitions in real neural networks, [paper](https://arxiv.org/abs/1012.2242) and [video lecture](https://www.youtube.com/watch?v=SZ74VtNffbY) by William Bialek.
+* Machine learning Ising models to capture phase transitions in real neural networks, [paper](https://arxiv.org/abs/1012.2242) and [video lecture](https://www.youtube.com/watch?v=SZ74VtNffbY) by William Bialek and Thierry Mora.
+* Ising Models for Inferring Network Structure From Spike Data, [paper](https://arxiv.org/abs/1106.1752) and [review article](https://sci-hub.st/https://www.sciencedirect.com/science/article/abs/pii/S0959438814002116) by Yasser Roudi, John Hertz, Joanna Tyrcha and Benjamin Dunn. 
+
 
 
