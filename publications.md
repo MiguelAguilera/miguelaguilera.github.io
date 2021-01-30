@@ -5,6 +5,9 @@ title: Publications
 
 ### Journal Publications
 
+1. Aguilera, M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://doi.org/10.1016/j.neubiorev.2021.01.009). _Neuroscience & Biobehavioral Reviews_ Volume 123, April 2021, pp 230-237. \
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
+
 1. Aguilera, M &amp; Di Paolo, EA (2019). <a href="https://doi.org/10.1016/j.neunet.2019.03.001" target="_blank" rel="nofollow noopener">Integrated information in the thermodynamic limit</a>. <i>Neural Networks</i>, Volume 114, pp 136-146.\
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
 
