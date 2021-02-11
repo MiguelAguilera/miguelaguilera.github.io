@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About | Miguel Aguilera
 ---
 
 <img src="https://maguilera.net/img/sm-loop.png" width="160"  alt="Miguel Aguilera about" align="right" />
