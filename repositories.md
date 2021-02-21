@@ -11,8 +11,7 @@ Here you can find different code and data repositories related to my papers and 
     <h3>
     <a href="https://github.com/MiguelAguilera/kinetic-Plefka-expansions" target="_blank">Mean-field methods and Plefka expansions for asymmetric kinetic Ising models</a>.
     </h3>
-    <p>Code reproducing the models in  Aguilera, M, Moosavi, SA &amp; Shimazaki H (2021). <a href="https://www.nature.com/articles/s41467-021-20890-5" target="_blank">A unifying framework for mean-field theories of asymmetric kinetic Ising systems</a>. <i>Nature Communications </i> 12:1197.</p>
-    [](). __ ; [https://doi.org/10.1038/s41467-021-20890](https://doi.org/10.1038/s41467-021-20890)
+    <p>Code reproducing the models in Aguilera, M, Moosavi, SA &amp; Shimazaki H (2021). <a href="https://www.nature.com/articles/s41467-021-20890-5" target="_blank">A unifying framework for mean-field theories of asymmetric kinetic Ising systems</a>. <i>Nature Communications </i> 12:1197.</p>
     <a href="https://github.com/MiguelAguilera/kinetic-Plefka-expansions/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-green.svg"></a>
     <img src="https://img.shields.io/badge/code-python-orange.svg">
     <a href="https://doi.org/10.5281/zenodo.4318968"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.4318968-blue.svg"></a>
@@ -32,6 +31,13 @@ Here you can find different code and data repositories related to my papers and 
 ## Data repositories:
 
 <div class="posts">
+    <h3>
+    <a href="https://zenodo.org/record/4318983" target="_blank">Simulation data of asymmetric kinetic Ising models near a ferromagnetic phase transition</a>.
+    </h3>
+    <p>Data used for generating the results in Aguilera, M, Moosavi, SA &amp; Shimazaki H (2021). <a href="https://www.nature.com/articles/s41467-021-20890-5" target="_blank">A unifying framework for mean-field theories of asymmetric kinetic Ising systems</a>. <i>Nature Communications </i> 12:1197.</p>
+    <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="https://img.shields.io/badge/License-CC BY-green.svg"></a>
+    <a href="https://doi.org/10.5281/zenodo.4318983"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.4318983-blue.svg"></a>
+<!--<br>-->
     <h3>
     <a href="https://github.com/IsaacLab/datasets/tree/master/PerceptualCrossing/data-28-03-2014" target="_blank">Perceptual crossing experiments</a>.
     </h3>
