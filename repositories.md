@@ -15,8 +15,7 @@ Here you can find different code and data repositories related to my papers and 
     <a href="https://github.com/MiguelAguilera/kinetic-Plefka-expansions/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-green.svg"></a>
     <img src="https://img.shields.io/badge/code-python-orange.svg">
     <a href="https://doi.org/10.5281/zenodo.4318968"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.4318968-blue.svg"></a>
-<!--<br>-->
-<div class="posts">
+
     <h3>
     <a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance/tree/v1.0" target="_blank">Tuning agents to criticality</a>.
     </h3>
@@ -24,8 +23,6 @@ Here you can find different code and data repositories related to my papers and 
     <a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-green.svg"></a>
     <img src="https://img.shields.io/badge/code-python-orange.svg">
     <a href="https://doi.org/10.5281/zenodo.4252069"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.4252069-blue.svg"></a>
-<!--<br>-->
-
 </div>
 
 ## Data repositories:
