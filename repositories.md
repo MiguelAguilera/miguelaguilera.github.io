@@ -9,13 +9,22 @@ Here you can find different code and data repositories related to my papers and 
 
 <div class="posts">
     <h3>
+    <a href="https://github.com/MiguelAguilera/kinetic-Plefka-expansions" target="_blank">Mean-field methods and Plefka expansions for asymmetric kinetic Ising models</a>.
+    </h3>
+    <p>Code reproducing the models in  Aguilera, M, Moosavi, SA &amp; Shimazaki H (2021). <a href="https://www.nature.com/articles/s41467-021-20890-5" target="_blank">A unifying framework for mean-field theories of asymmetric kinetic Ising systems</a>. <i>Nature Communications </i> 12:1197.</p>
+    [](). __ ; [https://doi.org/10.1038/s41467-021-20890](https://doi.org/10.1038/s41467-021-20890)
+    <a href="https://github.com/MiguelAguilera/kinetic-Plefka-expansions/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-green.svg"></a>
+    <img src="https://img.shields.io/badge/code-python-orange.svg">
+    <a href="https://doi.org/10.5281/zenodo.4318968"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.4318968-blue.svg"></a>
+<!--<br>-->
+<div class="posts">
+    <h3>
     <a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance/tree/v1.0" target="_blank">Tuning agents to criticality</a>.
     </h3>
     <p>Code reproducing the models in Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4#Abs1" target="_blank">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).</p>
     <a href="https://github.com/MiguelAguilera/Adaptation-to-criticality-through-organizational-invariance/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-green.svg"></a>
     <img src="https://img.shields.io/badge/code-python-orange.svg">
     <a href="https://doi.org/10.5281/zenodo.4252069"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.4252069-blue.svg"></a>
-
 <!--<br>-->
 
 </div>
