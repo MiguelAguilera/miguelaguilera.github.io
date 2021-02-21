@@ -5,8 +5,8 @@ title: Publications
 
 ### Journal Publications
 
-1. Aguilera, M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5). _Nature Communications_ 12:1197- \
-[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467-021-20890-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890)
+1. Aguilera, M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5). _Nature Communications_ 12:1197. \
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890)
 
 1. Aguilera, M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123. \
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
