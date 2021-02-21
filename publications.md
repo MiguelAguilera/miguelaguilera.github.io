@@ -11,7 +11,7 @@ title: Publications
 1. Aguilera, M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123. \
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
 
-1. Aguilera, M &amp; Di Paolo, EA (2019). <a href="https://doi.org/10.1016/j.neunet.2019.03.001" target="_blank" rel="nofollow noopener">Integrated information in the thermodynamic limit</a>. <i>Neural Networks</i>, Volume 114, pp 136-146.\
+1. Aguilera, M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146.\
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
 
 1. Aguilera, M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="nofollow noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198.\
