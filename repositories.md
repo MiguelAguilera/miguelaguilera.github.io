@@ -52,4 +52,8 @@ Here you can find different code and data repositories related to my papers and 
     <p> This repository contains code and theory from the <a href="http://escueladeverano.unizar.es/" target="_blank">Intangible lab</a> summer school on artificial life held in Etopia (Zaragoza) in 2017.</p>
     <a href="https://github.com/IsaacLab/LaboratorioIntangible/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-AGPLv3-green.svg"></a>
     
+    <h3>
+    <a href="https://maguilera.net/pages/Ising-model-tutorials.html" target="_blank">Materials on Ising models and Boltzmann machines</a>.
+    </h3>
+    <p> This page is a compilation of useful introductory materials to Ising models and Botlzmann machines.
 </div>
