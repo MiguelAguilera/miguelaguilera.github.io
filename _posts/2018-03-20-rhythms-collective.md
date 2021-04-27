@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adaptation to criticality through organizational invariance in embodied agents"
+title: "Rhythms of the Collective Brain: Metastable Synchronization and Cross-Scale Interactions in Connected Multitudes"
 author: "Miguel Aguilera"
 categories: blog
 tags: [paper]
