@@ -75,7 +75,6 @@ title: Publications
 1. Castillo, LF, Bedia, MG, Aguilera, M, &amp; Uribe, AL (2011). A proposal for improving retrieval processes in case-based reasoning systems able to act in dynamic environments. <em>Proceedings of the International Symposium on Distributed Computing and Artificial Intelligence 2011</em>.
 
 1. Castillo, LF, Bedia, MG, Aguilera, M, Uribe AL, Manrique, M &amp; Isaza, G (2011). Case-based reasoning and real-time systems: exploiting successfully poorer solutions. <em>Proceedings of the 6th Colombian Computing Congress</em>.
-Castillo, LF, Bedia, MG, Aguilera, M &amp; Uribe, AL (2011). Grid computing and CBR Deployment: Monitoring Principles for a Suitable Engagement. <em>Proceedings of the 2011 International Conferenceon Grid Computing and Applications</em>.
 
 ### Books &amp; Book Chapters
 
