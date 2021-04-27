@@ -16,15 +16,18 @@ Previously, I did my PhD funded by a FPU grant from the Spanish Education Minist
 
 ### Selected publications
 
-1. Aguilera, M &amp; Di Paolo, EA (2019). <a href="https://doi.org/10.1016/j.neunet.2019.03.001" target="_blank" rel="noopener noreferrer">Integrated information in the thermodynamic limit</a>. <i>Neural Networks</i>, Volume 114, pp 136-146. <abbr title="Digital Object Identifier">doi</abbr>:10.1016/j.neunet.2019.03.001
+1. Aguilera, M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5). _Nature Communications_ 12:1197. \
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890)
 
-1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4#Abs1" target="_blank" rel="noopener noreferrer">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018). <abbr title="Digital Object Identifier">doi</abbr>:10.1038/s41598-018-25925-4
+1. Aguilera, M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123. \
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
 
-1. Aguilera, M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="noopener noreferrer">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509. doi:10.1155/2018/4212509
+1. Aguilera, M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
 
-1. Aguilera M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76. doi: 10.3389/fnsys.2016.00076
+1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4" target="_blank" rel="nofollow noopener">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
 
-1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://maguilera0.files.wordpress.com/2015/03/journal-pone-0117465.pdf" target="_blank" rel="noopener noreferrer"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465. doi:<a class="libx-autolink" style="border-bottom:1px dotted;" title="libx-autolink" href="http://roble.unizar.es:4550/resserv?__char_set=utf8&amp;id=doi:10.1371/journal.pone.0117465&amp;sid=libx&amp;genre=article">10.1371/journal.pone.0117465</a>
-
-1. Aguilera, M, Bedia, MG, Santos, BA, Barandiaran, XE (2013).<a href="http://maguilera0.files.wordpress.com/2012/11/fncom-07-00117.pdf" target="_blank" rel="noopener noreferrer"> The Situated HKB Model: how sensorimotor spatial coupling can alter oscillatory brain dynamics</a>. <i>Frontiers in Computational Neuroscience</i> 7 (2013): 117. doi:<a class="libx-autolink" style="border-bottom:1px dotted;" title="libx-autolink" href="http://roble.unizar.es:4550/resserv?__char_set=utf8&amp;id=doi:10.3389/fncom.2013.00117&amp;sid=libx&amp;genre=article">10.3389/fncom.2013.00117.</a>
+1. Aguilera, M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="nofollow noopener">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509.\
+[![DOI](https://img.shields.io/badge/DOI-10.1155/2018/4212509-lightgreen.svg)](https://doi.org/10.1155/2018/4212509)
 
