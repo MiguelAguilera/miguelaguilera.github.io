@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory"
+title: "Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly"
 author: "Miguel Aguilera"
 categories: blog
 tags: [paper]
