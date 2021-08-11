@@ -16,12 +16,19 @@ One of the grand challenges for embodied cognitive science and neuroscience is t
 A description of the project can be found [here](https://maguilera0.files.wordpress.com/2018/03/postdoc-project-upv-ehu.pdf).
 
 ### Related Publications
+1. Aguilera, M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123. \
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
 
-1. Aguilera, M &amp; Di Paolo, EA (2019). <a href="https://doi.org/10.1016/j.neunet.2019.03.001" target="_blank" rel="noopener noreferrer">Integrated information in the thermodynamic limit</a>. <i>Neural Networks</i>, Volume 114, pp 136-146. <abbr title="Digital Object Identifier">doi</abbr>:10.1016/j.neunet.2019.03.001
+1. Aguilera, M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
 
-1. Aguilera, M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198. doi:10.3390/e21121198
+1. Aguilera, M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="nofollow noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198.\
+[![DOI](https://img.shields.io/badge/DOI-10.3390/e21121198-lightgreen.svg)](https://doi.org/10.3390/e21121198)
 
-1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4#Abs1" target="_blank" rel="noopener noreferrer">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018). <abbr title="Digital Object Identifier">doi</abbr>:10.1038/s41598-018-25925-4
+1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://www.nature.com/articles/s41598-018-25925-4" target="_blank" rel="nofollow noopener">Adaptation to criticality through organizational invariance in embodied agents</a>. <i>Scientific Reports </i> volume 8, Article number: 7723 (2018).\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
 
-1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://doi.org/10.3389/fnbot.2018.00055">Exploring Criticality as a Generic Adaptive Mechanism</a>.<em> Frontiers in Neurorobotics</em> 12: 55. doi:10.3389/fnbot.2018.00055
+
+1. Aguilera, M &amp; Bedia, MG (2018). <a href="https://doi.org/10.3389/fnbot.2018.00055"  target="_blank" rel="nofollow noopener">Exploring Criticality as a Generic Adaptive Mechanism</a>.<em> Frontiers in Neurorobotics</em> 12: 55.\
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fnbot.2018.00055-lightgreen.svg)](https://doi.org/10.3389/fnbot.2018.00055)
 
