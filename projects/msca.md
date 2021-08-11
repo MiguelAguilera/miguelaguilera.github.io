@@ -10,8 +10,15 @@ permalink: /projects/msca.html
 
 <a href="https://cordis.europa.eu/project/id/892715"><img src="https://img.shields.io/badge/MSCA--IF--2019-grant%20no.%20892715-blue.svg"  alt="Marie Skłodowska Curie Action"></a>
 
-This project has been funded by [MSCA-IF grant](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) at the [University of Sussex](https://www.sussex.ac.uk/).
+[This project](https://cordis.europa.eu/project/id/892715) has been funded by [MSCA-IF grant](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) at the [University of Sussex](https://www.sussex.ac.uk/).
 The project aims to apply information-theoretic and inference methods to develop models of neural activity from zebrafish larvae in closed loop behavior, e.g. trying to apply theoretical methods for approximating the behaviour of very large networks and inferring their parameters from experimental data.
+
+- *DIMENSIVE* Grant agreement ID: 892715
+- *Start date:* 12 May 2020 - *End date:* 25 May 2022
+- *Funded under:* H2020-EU.1.3.2.
+- *Overall budget:* € 212 933,76
+- *Coordinated by:* The University of Sussex
+
 
 ### Project description
 
