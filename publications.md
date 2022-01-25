@@ -53,7 +53,7 @@ title: Publications
 
 ### Conference Publications
 
-1. Poc-López, A & Aguilera, M (2021). <a href="https://doi.org/10.1162/isal_a_00136"  target="_blank" rel="nofollow noopener">Inference in Neural Networks Using Conditional Mean-Field Methods</a>. <i> International Conference on Neural Information Processing ICONIP 2021</i>, pp 228-237.
+1. Poc-López, A & Aguilera, M (2021). <a href="https://doi.org/10.1007/978-3-030-92270-2_20"  target="_blank" rel="nofollow noopener">Inference in Neural Networks Using Conditional Mean-Field Methods</a>. <i> International Conference on Neural Information Processing ICONIP 2021</i>, pp 228-237.
 
 1. Aguilera, M, Arandia-Romero, I & Heras-Escribano, M (2019). <a href="https://doi.org/10.1162/isal_a_00136"  target="_blank" rel="nofollow noopener">Quantifying affordances through information theory</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 11-12.
 
