@@ -5,7 +5,10 @@ title: Publications
 
 ### Journal Publications
 
-1. Aguilera, M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5). _Nature Communications_ 12:1197. \
+1. Aguilera, M, Millidge, B, Tschantz, A & Buckley, CL(_in press_). [How particular is the physics of the free energy principle?](https://www.nature.com/articles/s41467-021-20890-5). _Physics of Life Reviews_. \
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2021.11.001-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2021.11.001)
+
+1. Aguilera, M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ 12:1197. \
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890)
 
 1. Aguilera, M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123. \
@@ -50,9 +53,11 @@ title: Publications
 
 ### Conference Publications
 
-1. Aguilera, M., Arandia-Romero, I. and Heras-Escribano, M (2019). <a href="https://doi.org/10.1162/isal_a_00136"  target="_blank" rel="nofollow noopener">Quantifying affordances through information theory</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 11-12.
+1. Poc-López, A & Aguilera, M (2021). <a href="https://doi.org/10.1162/isal_a_00136"  target="_blank" rel="nofollow noopener">Inference in Neural Networks Using Conditional Mean-Field Methods</a>. <i> International Conference on Neural Information Processing ICONIP 2021</i>, pp 228-237.
 
-1. Bedia, M. G., Heras-Escribano, M., Cajal, D., Aguilera, M., &amp; Barandiaran, X. E. (2019). <a href="https://doi.org/10.1162/isal_a_00185"  target="_blank" rel="nofollow noopener">Towards modelling social habits: An organismically inspired evolutionary robotics approach</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 341-348.
+1. Aguilera, M, Arandia-Romero, I & Heras-Escribano, M (2019). <a href="https://doi.org/10.1162/isal_a_00136"  target="_blank" rel="nofollow noopener">Quantifying affordances through information theory</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 11-12.
+
+1. Bedia, MG, Heras-Escribano, M., Cajal, D, Aguilera, M, &amp; Barandiaran, XE (2019). <a href="https://doi.org/10.1162/isal_a_00185"  target="_blank" rel="nofollow noopener">Towards modelling social habits: An organismically inspired evolutionary robotics approach</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 341-348.
 
 1. Aguilera, M &amp; Di Paolo, E (2018). <a href="https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00030"  target="_blank" rel="nofollow noopener">Integrated Information and Autonomy in the Thermodynamic Limit </a>. <em>The 2018 Conference on Artificial Life: A Hybrid of the European Conference on Artificial Life (ECAL) and the International Conference on the Synthesis and Simulation of Living Systems (ALIFE)</em> 2018: 113-120.
 
