@@ -5,7 +5,7 @@ title: Publications
 
 ### Journal Publications
 
-1. Aguilera, M, Millidge, B, Tschantz, A & Buckley, CL(_in press_). [How particular is the physics of the free energy principle?](https://www.nature.com/articles/s41467-021-20890-5). _Physics of Life Reviews_. \
+1. Aguilera, M, Millidge, B, Tschantz, A & Buckley, CL(2022). [How particular is the physics of the free energy principle?](https://www.nature.com/articles/s41467-021-20890-5). _Physics of Life Reviews_ 40:24-50. \
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2021.11.001-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2021.11.001)
 
 1. Aguilera, M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ 12:1197. \
