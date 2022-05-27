@@ -19,7 +19,7 @@ Here I compile some introductory materials to Botlzmann machines and Ising model
 
 #### Applications
 * Machine learning Ising models to capture phase transitions in real neural networks, [paper](https://arxiv.org/abs/1012.2242) and [video lecture](https://www.youtube.com/watch?v=SZ74VtNffbY) by William Bialek and Thierry Mora.
-* Ising Models for Inferring Network Structure From Spike Data, [paper](https://arxiv.org/abs/1106.1752) and [review article](https://sci-hub.st/https://www.sciencedirect.com/science/article/abs/pii/S0959438814002116) by Yasser Roudi, John Hertz, Joanna Tyrcha and Benjamin Dunn. 
+* Ising Models for Inferring Network Structure From Spike Data, [paper](https://arxiv.org/abs/1106.1752) and [review article](https://www.sciencedirect.com/science/article/abs/pii/S0959438814002116) by Yasser Roudi, John Hertz, Joanna Tyrcha and Benjamin Dunn. 
 
 
 
