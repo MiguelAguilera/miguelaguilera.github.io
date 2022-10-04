@@ -50,10 +50,10 @@ title: Publications
 1. Santos, BA, Barandiaran, XE, Husbands, P, **Aguilera,** M &amp; Bedia, M G. (2012). <a href="https://doi.org/10.1080/09540091.2013.770821" target="_blank" rel="nofollow noopener">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>.\
 [![DOI](https://img.shields.io/badge/DOI-10.1080/09540091.2013.770821-lightgreen.svg)](https://doi.org/10.1080/09540091.2013.770821)
 
-1. \[Commentary\] Aguilera, M & Buckley, CL (2022). [Recurent, nonequilibrium systems and the Markov blanket assumption](https://doi.org/10.1017/S0140525X22000309). _Behavioral and Brain Sciences_ 45:184. \
+1. \[Commentary\] **Aguilera**, M & Buckley, CL (2022). [Recurent, nonequilibrium systems and the Markov blanket assumption](https://doi.org/10.1017/S0140525X22000309). _Behavioral and Brain Sciences_ 45:184. \
 [![DOI](https://img.shields.io/badge/DOI-10.1017/S0140525X22000309-lightgreen.svg)](https://doi.org/10.1017/S0140525X22000309)
 
-1. \[Commentary\] Aguilera, M & Buckley, CL (2022). [The nonequilibrium boundaries of living systems](https://doi.org/10.1017/S0140525X22000309). _Physics of Life Reviews_ 43:23-25. \
+1. \[Commentary\] **Aguilera**, M (2022). [The nonequilibrium boundaries of living systems](https://doi.org/10.1017/S0140525X22000309). _Physics of Life Reviews_ 43:23-25. \
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2022.08.002-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2022.08.002)
 
 ### Conference Publications
