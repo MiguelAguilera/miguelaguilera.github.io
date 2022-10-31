@@ -20,7 +20,7 @@ Selected Publications:
 1. **Aguilera,** M, Igarashi, M & Shimazaki H (2022). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://arxiv.org/abs/2205.09886).  _arXiv preprint arXiv:2205.09886_.
 
 
-
+<br>
 
 ## Research projects
 
