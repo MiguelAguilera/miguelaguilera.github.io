@@ -1,6 +1,6 @@
 ---
 layout: page
-tite:
+tite: 
 ---
 
 
