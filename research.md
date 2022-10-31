@@ -5,17 +5,22 @@ title: Research
 
 
 
-### Nonequilibrium spin models
+### Research topics
 
-Neural systems operate far from equilibrium, chaning dnyamically with sensory streams and internal states, displaying time-asymmetric, irreversible dynamics. Often, classical neuroscience theory has been focused on equilibrium information paradigm (e.g. efficient coding), which are insufficient to describe how nervous systems organize and adapt to thrive out of equilibrium. Inspired by successes in different versions of equilibrium Ising models and Botlzmann Machines, with [Hideaki Shimazaki](https://www.neuralengine.org/index_en.html) we are interested in developing methods for studying precisely nonequilibrium neural systems, including mean field methods based on information geometry preserving fluctuations in the system, or exact calculations describing the stochastic thermodynamics of disordered nonequilibrium systems.
+##### Nonequilibrium spin models
 
-<font size="1">
+
+Neural systems operate far from equilibrium, chaning dnyamically with sensory streams and internal states, displaying time-asymmetric, irreversible dynamics. Often, classical neuroscience theory has been focused on equilibrium information paradigm (e.g. efficient coding), which are insufficient to describe how nervous systems organize and adapt to thrive out of equilibrium. Inspired by successes in different versions of equilibrium Ising models and Botlzmann Machines, with [Hideaki Shimazaki](https://www.neuralengine.org/index_en.html) and collaborators as Amin Moosavi and Masanao Igarashi we are interested in developing methods for studying precisely nonequilibrium neural systems, including mean field methods based on information geometry preserving fluctuations in the system, or exact calculations describing the stochastic thermodynamics of disordered nonequilibrium systems.
+
 Selected Publications:
 1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ 12:1197. \
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
-</font>
+1. **Aguilera,** M, Igarashi, M & Shimazaki H (2022). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://arxiv.org/abs/2205.09886).  _arXiv preprint arXiv:2205.09886_.
 
-# Projects
+
+
+
+### Research projects
 
 <ul class="posts">
 
