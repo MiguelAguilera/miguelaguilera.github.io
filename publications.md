@@ -26,10 +26,10 @@ title: Publications
 1. **Aguilera,** M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="nofollow noopener">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509.\
 [![DOI](https://img.shields.io/badge/DOI-10.1155/2018/4212509-lightgreen.svg)](https://doi.org/10.1155/2018/4212509)
 
-1. **Aguilera,** M &amp; Bedia, MG (2018). <a href="https://doi.org/10.3389/fnbot.2018.00055"  target="_blank" rel="nofollow noopener">Exploring Criticality as a Generic Adaptive Mechanism</a>.<em> Frontiers in Neurorobotics</em> 12: 55.\
+1. **Aguilera,** M &amp; Bedia, MG (2018). [Exploring Criticality as a Generic Adaptive Mechanism](https://doi.org/10.3389/fnbot.2018.00055). _Frontiers in Neurorobotics_ 12: 55.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fnbot.2018.00055-lightgreen.svg)](https://doi.org/10.3389/fnbot.2018.00055)
 
-1. Aguilera M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76.\
+1. **Aguilera** M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
 
 1. Monterde, A, Calleja-López, A, **Aguilera,** M, Barandiaran, XE, &amp; Postill, J (2015). <a href="files/monterde_etal_2015_multitudinous_identities.pdf"  target="_blank">Multitudinous identities: a qualitative and network analysis of the 15M collective identity</a>. <em>Information, Communication and Society</em>.\

@@ -20,6 +20,27 @@ Selected Publications:
 1. **Aguilera,** M, Igarashi, M & Shimazaki H (2022). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://arxiv.org/abs/2205.09886).  _arXiv preprint arXiv:2205.09886_.
 
 
+
+**_Integrated Information Theory_**
+
+Integrated Information Theory (IIT) is a popular mathematical framework for understanding integration in neural systems and its significance to processes like consciousness and awareness. However, the computational cost of these measures generally precludes applications beyond relatively small systems, and it is not yet well understood how integration scales up with the size of a system nor how a system maintains integration as it interacts with its environment. In collaboration with [Ezequiel Di Paolo](https://ezequieldipaolo.net) we showed using mean-field approximations ho measures of information integration scale when a neural network becomes very large, connecting it with theories on critical phase transitions.
+
+Selected Publications:
+1. **Aguilera,** M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
+1. **Aguilera,** M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123. \
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
+
+
+**_Self-organized criticality and adaptation_**
+
+Many biological and neural systems do not operate deep within one or other regime of activity. Instead, they are poised at critical points located at phase transitions in their parameter space displaying non-trivial patterns like avalanches and large fluctuations. Here, we designed a learning rule that maintains invariances in the structure of a network corresponding to a universality class of critical systems. We implemented this rule in artificial robotic agents in two classical reinforcement learning scenarios and showed that in both cases the neural controller reaches a critical point maximizing the complexity of the agent behaviour, suggesting that adaptation to criticality can be used as a general adaptive mechanism.
+
+
+Selected Publications:
+1. **Aguilera,** M &amp; Bedia, MG (2018). [Exploring Criticality as a Generic Adaptive Mechanism](https://doi.org/10.3389/fnbot.2018.00055). _Frontiers in Neurorobotics_ 12: 55.\
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fnbot.2018.00055-lightgreen.svg)](https://doi.org/10.3389/fnbot.2018.00055)
+
 <br>
 
 ## Research projects
