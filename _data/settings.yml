@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'About', path: 'menu', url: 'about'}
 - {name: 'Publications', path: 'menu', url: 'publications'}
-- {name: 'Projects', path: 'menu', url: 'projects'}
+- {name: 'Research', path: 'menu', url: 'research'}
 - {name: 'Code & Data', path: 'menu', url: 'repositories'}
 - {name: 'Blog', path: 'menu', url: 'blog'}
 - {name: 'Contact', path: 'menu', url: 'contact'}
