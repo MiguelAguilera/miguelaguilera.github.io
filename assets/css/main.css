@@ -112,7 +112,8 @@ hr {
 }
 
 .masthead-title a {
-  font-size: 2rem;
+/*  font-size: 2rem;*/
+  font-size: 1.6rem;
   text-decoration: none;
   color: #505050;
 }
