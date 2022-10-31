@@ -5,7 +5,7 @@ tite:
 
 
 
-### Research topics
+## Research topics
 
 **_Nonequilibrium neural computation_**
 
@@ -22,7 +22,7 @@ Selected Publications:
 
 
 
-### Research projects
+## Research projects
 
 <ul class="posts">
 
