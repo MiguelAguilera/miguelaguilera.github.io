@@ -10,8 +10,9 @@ menu:
 - {name: 'About', path: 'menu', url: 'about'}
 - {name: 'Publications', path: 'menu', url: 'publications'}
 - {name: 'Research', path: 'menu', url: 'research'}
+- {name: 'Projects', path: 'menu', url: 'projects'}
 - {name: 'Code & Data', path: 'menu', url: 'repositories'}
-- {name: 'Blog', path: 'menu', url: 'blog'}
+#- {name: 'Blog', path: 'menu', url: 'blog'}
 - {name: 'Contact', path: 'menu', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
