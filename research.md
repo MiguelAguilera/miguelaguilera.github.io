@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Projects
+title: Research
 ---
 
-<ul class="posts">
 
-<br>
 
 
 # Research Topics
@@ -21,6 +19,9 @@ Neural systems operate far from equilibrium, chaning dnyamically with sensory st
 
 # Projects
 
+<ul class="posts">
+
+<br>
 
 <li itemscope>
     <a href="/projects/DIMENSIVE.html"><img src="{{ site.github.url }}/assets/img/dimensive-sussex.png" alt="Marie Skłodowska Curie Action"></a>
