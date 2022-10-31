@@ -9,7 +9,7 @@ layout: page
 **_Nonequilibrium neural computation_**
 
 
-<img style="float: right;" src="{{ site.github.url }}/assets/img/geometric-plefka-expansion.png"  width="200">
+<img style="float: right;" src="{{ site.github.url }}/assets/img/geometric-plefka-expansion.png"  width="300">
 
 Neural systems operate far from equilibrium, chaning dnyamically with sensory streams and internal states, displaying time-asymmetric, irreversible dynamics. Often, classical neuroscience theory has been focused on equilibrium information paradigm (e.g. efficient coding), which are insufficient to describe how nervous systems organize and adapt to thrive out of equilibrium. Inspired by successes in different versions of equilibrium Ising models and Botlzmann Machines, with [Hideaki Shimazaki](https://www.neuralengine.org/index_en.html) and collaborators as Amin Moosavi and Masanao Igarashi we are interested in developing methods for studying precisely nonequilibrium neural systems, including mean field methods based on information geometry preserving fluctuations in the system, or exact calculations describing the stochastic thermodynamics of disordered nonequilibrium systems.
 
