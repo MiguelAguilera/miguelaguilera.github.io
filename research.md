@@ -38,8 +38,8 @@ Many biological and neural systems do not operate deep within one or other regim
 
 
 Selected Publications:
-1. **Aguilera,** M &amp; Bedia, MG (2018). [Exploring Criticality as a Generic Adaptive Mechanism](https://doi.org/10.3389/fnbot.2018.00055). _Frontiers in Neurorobotics_ 12: 55.\
-[![DOI](https://img.shields.io/badge/DOI-10.3389/fnbot.2018.00055-lightgreen.svg)](https://doi.org/10.3389/fnbot.2018.00055)
+1. **Aguilera,** M &amp; Bedia, MG (2018). [Adaptation to criticality through organizational invariance in embodied agents](https://www.nature.com/articles/s41598-018-25925-4). _Scientific Reports_ volume 8, Article number: 7723 (2018).\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
 
 <br>
 
