@@ -13,7 +13,7 @@ Neural systems operate far from equilibrium, chaning dnyamically with sensory st
 Selected Publications:
 1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ 12:1197. \
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
-<\font>
+</font>
 
 # Projects
 
