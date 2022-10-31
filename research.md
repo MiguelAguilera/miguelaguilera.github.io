@@ -1,6 +1,6 @@
 ---
-layout: page
-tite:  
+layout: page_notitle
+tite: Research
 ---
 
 
