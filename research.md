@@ -1,11 +1,8 @@
 ---
-layout: page_notitle
-tite: Research
+layout: page
+tite: Research topics
 ---
 
-
-
-## Research topics
 
 **_Nonequilibrium neural computation_**
 
@@ -33,4 +30,6 @@ Many biological and neural systems do not operate deep within one or other regim
 
 
 1. **Aguilera,** M &amp; Bedia, MG (2018). [Adaptation to criticality through organizational invariance in embodied agents](https://www.nature.com/articles/s41598-018-25925-4). _Scientific Reports_ volume 8, Article number: 7723 (2018). [![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
+1. **Aguilera** M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76. [![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
+1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://doi.org/10.1371/journal.pone.0117465"  target="_blank" rel="nofollow noopener"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465. [![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightgreen.svg)](https://doi.org/10.1371/journal.pone.0117465)
 
