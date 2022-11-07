@@ -3,6 +3,6 @@
   {% if first_char == '/' %}
     <a href="{{ site.baseurl }}{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>&nbsp;
   {% else %}
-    <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>&nbsp;
+    <a  rel="me" href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>&nbsp;
   {% endif %}
 {% endfor %}
