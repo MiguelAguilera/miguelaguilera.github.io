@@ -33,3 +33,5 @@ Previously, I did my PhD funded by a FPU grant from the Spanish Education Minist
 1. Aguilera, M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="nofollow noopener">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509.\
 [![DOI](https://img.shields.io/badge/DOI-10.1155/2018/4212509-lightgreen.svg)](https://doi.org/10.1155/2018/4212509)
 
+
+<iframe src="https://maguilera.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
