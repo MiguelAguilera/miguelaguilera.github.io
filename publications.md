@@ -5,7 +5,8 @@ title: Publications
 
 ### Journal Publications
 
-1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685 ; [https://doi.org/10.1038/s41467-023-39107-y](https://doi.org/10.1038/s41467-023-39107-y)
+1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685.  \
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
 
 1. **Aguilera,** M, Millidge, B, Tschantz, A & Buckley, CL (2022). [How particular is the physics of the free energy principle?](https://www.nature.com/articles/s41467-021-20890-5). _Physics of Life Reviews_ 40:24-50. \
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2021.11.001-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2021.11.001)
