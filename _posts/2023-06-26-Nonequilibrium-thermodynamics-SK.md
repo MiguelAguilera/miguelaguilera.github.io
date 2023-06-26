@@ -13,7 +13,7 @@ Thanks to BCAM's and Kyoto University communication teams we have released [a pr
 
 <img src="https://maguilera.net/img/entropy_final.jpg" width="260"  alt="Entropy production spin model illustration" align="right" />
 
-1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685 ; [https://doi.org/10.1038/s41467-021-20890](https://doi.org/10.1038/s41467-021-20890)
+1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685 ; [https://doi.org/10.1038/s41467-023-39107-y](https://doi.org/10.1038/s41467-023-39107-y)
 
 
 **Abstract**

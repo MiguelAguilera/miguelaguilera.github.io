@@ -11,9 +11,10 @@ tite: Research topics
 
 Neural systems operate far from equilibrium, changing with sensory streams and internal states in time-asymmetric, irreversible dynamics. Often, classical neuroscience theory focuses on an equilibrium information paradigm (e.g. efficient coding), which is insufficient to describe how nervous systems organize and adapt to thrive out of equilibrium. With [Hideaki Shimazaki](https://www.neuralengine.org/index_en.html) and collaborators as Amin Moosavi and Masanao Igarashi we are interested in developing methods for studying precisely nonequilibrium neural systems, including mean field methods based on information geometry preserving irreversible fluctuations in the system, or exact calculations describing the stochastic thermodynamics of disordered nonequilibrium systems.
 
-1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ 12:1197. [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
-1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685 ; [https://doi.org/10.1038/s41467-021-20890](https://doi.org/10.1038/s41467-021-20890)
 
+1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685 ; [https://doi.org/10.1038/s41467-023-39107-y](https://doi.org/10.1038/s41467-023-39107-y)
+1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ **12**, 1197. \
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
 
 **_Integrated Information Theory_**
 
