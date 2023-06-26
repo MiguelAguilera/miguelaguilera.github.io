@@ -5,10 +5,12 @@ title: Publications
 
 ### Journal Publications
 
+1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685 ; [https://doi.org/10.1038/s41467-021-20890](https://doi.org/10.1038/s41467-021-20890)
+
 1. **Aguilera,** M, Millidge, B, Tschantz, A & Buckley, CL (2022). [How particular is the physics of the free energy principle?](https://www.nature.com/articles/s41467-021-20890-5). _Physics of Life Reviews_ 40:24-50. \
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2021.11.001-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2021.11.001)
 
-1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ 12:1197. \
+1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ **12**, 1197. \
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
 
 1. **Aguilera,** M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123. \
