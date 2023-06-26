@@ -11,7 +11,7 @@ Our [new paper](https://www.nature.com/articles/s41467-023-39107-y) nonequilibri
 
 Thanks to BCAM's and Kyoto University communication teams we have released [a press release](https://news.bcamath.org/2023/06/23/an-interdisciplinary-collaboration-for-deciphering-the-thermodynamic-arrow-of-time-in-complex-networks/) describing the interest of looking at neural and complex networks from the perspective of a thermoynamic lens, accompanied by a fantastic illustration by [Robin Hoshino](http://www.hoshinorobin.com)
 
-<img src="https://maguilera.net/img/entropy_final.jpg" width="260"  alt="Entropy production spin model illustration" align="right" />
+<img src="https://maguilera.net/img/entropy_final.jpg" width="500"  alt="Entropy production spin model illustration" align="center" />
 
 1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685.  \
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
