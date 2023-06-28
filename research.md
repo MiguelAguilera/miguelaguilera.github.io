@@ -4,6 +4,10 @@ tite: Research topics
 ---
 
 
+## Scope
+
+My research line is guided by the ambition of using methods from different branches of complex systems research and related areas (statistical mechanics, information theory, machine learning and nonlinear dynamics) to study the closed-loop ongoing interaction of intelligent agents with their environments. I work with methods from nonequilibrium physics to study neural systems in interaction with their environment as open, nonequilibrium systems, which often challenge mathematical and modelling methods assuming linearity or asymptotic equilibrium. My goal is to apply such methods to address open problems and theoretical challenges related to leading theories in neuroscience and as well as broader research perspectives on life and mind.
+
 **_Nonequilibrium neural computation_**
 
 
@@ -12,15 +16,19 @@ tite: Research topics
 Neural systems operate far from equilibrium, changing with sensory streams and internal states in time-asymmetric, irreversible dynamics. Often, classical neuroscience theory focuses on an equilibrium information paradigm (e.g. efficient coding), which is insufficient to describe how nervous systems organize and adapt to thrive out of equilibrium. With [Hideaki Shimazaki](https://www.neuralengine.org/index_en.html) and collaborators as Amin Moosavi and Masanao Igarashi we are interested in developing methods for studying precisely nonequilibrium neural systems, including mean field methods based on information geometry preserving irreversible fluctuations in the system, or exact calculations describing the stochastic thermodynamics of disordered nonequilibrium systems.
 
 
-1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685. [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
-1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ **12**, 1197. [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
+1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685.\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
+1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ **12**, 1197.\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
 
 **_Integrated Information Theory_**
 
 Integrated Information Theory (IIT) is a popular mathematical framework for understanding integration in neural systems and its significance to processes like consciousness and awareness. However, the computational cost of these measures generally precludes applications beyond relatively small systems, and it is not yet well understood how integration scales up with the size of a system nor how a system maintains integration as it interacts with its environment. In collaboration with [Ezequiel Di Paolo](https://ezequieldipaolo.net) we showed using mean-field approximations ho measures of information integration scale when a neural network becomes very large, connecting it with theories on critical phase transitions.
 
-1. **Aguilera,** M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146. [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
-1. **Aguilera,** M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123. [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
+1. **Aguilera,** M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
+1. **Aguilera,** M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
 
 
 **_Self-organized criticality and adaptation_**
@@ -28,7 +36,10 @@ Integrated Information Theory (IIT) is a popular mathematical framework for unde
 Many biological and neural systems do not operate deep within one or other regime of activity. Instead, they are poised at critical points located at phase transitions in their parameter space displaying non-trivial patterns like avalanches and large fluctuations. Here, we designed a learning rule that maintains invariances in the structure of a network corresponding to a universality class of critical systems. We implemented this rule in artificial robotic agents in two classical reinforcement learning scenarios and showed that in both cases the neural controller reaches a critical point maximizing the complexity of the agent behaviour, suggesting that adaptation to criticality can be used as a general adaptive mechanism.
 
 
-1. **Aguilera,** M &amp; Bedia, MG (2018). [Adaptation to criticality through organizational invariance in embodied agents](https://www.nature.com/articles/s41598-018-25925-4). _Scientific Reports_ volume 8, Article number: 7723 (2018). [![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
-1. **Aguilera** M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76. [![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
-1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://doi.org/10.1371/journal.pone.0117465"  target="_blank" rel="nofollow noopener"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465. [![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightgreen.svg)](https://doi.org/10.1371/journal.pone.0117465)
+1. **Aguilera,** M &amp; Bedia, MG (2018). [Adaptation to criticality through organizational invariance in embodied agents](https://www.nature.com/articles/s41598-018-25925-4). _Scientific Reports_ volume 8, Article number: 7723 (2018).\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
+1. **Aguilera** M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76.\
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
+1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://doi.org/10.1371/journal.pone.0117465"  target="_blank" rel="nofollow noopener"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465.\
+[![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightgreen.svg)](https://doi.org/10.1371/journal.pone.0117465)
 
