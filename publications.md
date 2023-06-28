@@ -98,6 +98,7 @@ title: Publications
 
 1. **Aguilera,** M (2015) <a href="http://maguilera0.files.wordpress.com/2013/06/capitulo.pdf" target="_blank" rel="noopener noreferrer">La conciencia red de la multitud conectada: la mente colectiva del 15M</a>. In Toret, J. (Ed.).  <em>Tecnopolítica y 15M. La potencia de las multitudes conectadas</em> (pp. 144-161). Barcelona: Editorial UOC. ISBN: <a class="libx-autolink" title="ISBN not found" href="http://roble.unizar.es/search*spi/i?8490644586&amp;startLimit=&amp;endLimit=">978-84-9064-458-4</a>
 
+<!---
 ### Posters
 
 1. Izquierdo, E.J., **Aguilera,** M. and Beer, R.D. (2013). <a href="http://maguilera0.files.wordpress.com/2012/11/poster_final.pdf" target="_blank" rel="noopener noreferrer">Analysis of ultrastability in small dynamical recurrent neural networks</a>. 12th European Conference on Artificial Life.
@@ -105,6 +106,7 @@ title: Publications
 1. **Aguilera,** M, Bedia, M.G., Santos, B.A.  and Barandiaran, X.E. (2012).<a href="http://maguilera0.files.wordpress.com/2012/11/quantifying-forms-of-sensorimotor-coupling.pdf" target="_blank" rel="noopener noreferrer"> Quantifying forms of sensorimotor coupling with the situated­HKB model. What robots can tell us about ecological psychology</a>. 12th European Workshop on Ecological Psychology.
 
 1. Fernández, M. and **Aguilera,** M. (2011). <a href="http://maguilera0.files.wordpress.com/2012/11/poster-extended-vs-embedded-cog.pdf" target="_blank" rel="noopener noreferrer">Exploring the limits of situated and dynamical cognition: embedded vs. extended cognition</a>. Poster presented at the Workshop on Embodied, Distributed and Extended Cognition: Philosophical Perspectives, Department of Philosophy, Universistat Autònoma de Barcelona. Barcelona, March 24-25, 2011.
+-->
 
 ### Dissertations and Thesis
 
