@@ -5,42 +5,58 @@ title: Publications
 
 ### Journal Publications
 
-1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685. [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
+1. **Aguilera**, M, Igarashi, M & Shimazaki H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685.\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
 
-1. **Aguilera,** M, Millidge, B, Tschantz, A & Buckley, CL (2022). [How particular is the physics of the free energy principle?](https://www.nature.com/articles/s41467-021-20890-5). _Physics of Life Reviews_ 40:24-50 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2021.11.001-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2021.11.001)
+1. **Aguilera,** M, Millidge, B, Tschantz, A & Buckley, CL (2022). [How particular is the physics of the free energy principle?](https://www.nature.com/articles/s41467-021-20890-5). _Physics of Life Reviews_ 40:24-50.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2021.11.001-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2021.11.001)
 
-1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ **12**, 1197 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
+1. **Aguilera,** M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ **12**, 1197.\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--021--20890--5-lightgreen.svg)](https://doi.org/10.1038/s41467-021-20890-5)
 
-1. **Aguilera,** M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
+1. **Aguilera,** M & Di Paolo, EA (2021). [Critical integration in neural and cognitive systems: Beyond power-law scaling as the hallmark of soft assembly](https://www.sciencedirect.com/science/article/pii/S0149763421000233). _Neuroscience & Biobehavioral Reviews_ 123.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neubiorev.2021.01.009-lightgreen.svg)](https://doi.org/10.1016/j.neubiorev.2021.01.009)
 
-1. **Aguilera,** M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146. [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
+1. **Aguilera,** M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)
 
-1. **Aguilera,** M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="nofollow noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198. [![DOI](https://img.shields.io/badge/DOI-10.3390/e21121198-lightgreen.svg)](https://doi.org/10.3390/e21121198)
+1. **Aguilera,** M. (2019). <a href="https://www.mdpi.com/1099-4300/21/12/1198" target="_blank" rel="nofollow noopener">Scaling Behaviour and Critical Phase Transitions in Integrated Information Theory</a>. <i>Entropy</i>, <i>21</i>(12), 1198.\
+[![DOI](https://img.shields.io/badge/DOI-10.3390/e21121198-lightgreen.svg)](https://doi.org/10.3390/e21121198)
 
-1. **Aguilera,** M &amp; Bedia, MG (2018). [Adaptation to criticality through organizational invariance in embodied agents](https://www.nature.com/articles/s41598-018-25925-4). _Scientific Reports_ volume 8, Article number: 7723 (2018). [![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
+1. **Aguilera,** M &amp; Bedia, MG (2018). [Adaptation to criticality through organizational invariance in embodied agents](https://www.nature.com/articles/s41598-018-25925-4). _Scientific Reports_ volume 8, Article number: 7723 (2018).\
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--018--25925--4-lightgreen.svg)](https://doi.org/10.1038/s41598-018-25925-4)
 
-1. **Aguilera,** M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="nofollow noopener">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509. [![DOI](https://img.shields.io/badge/DOI-10.1155/2018/4212509-lightgreen.svg)](https://doi.org/10.1155/2018/4212509)
+1. **Aguilera,** M (2018). <a href="https://www.hindawi.com/journals/complexity/2018/4212509/" target="_blank" rel="nofollow noopener">Rhythms of the collective brain: Metastable synchronization and cross-scale interactions in connected multitudes</a>.<em> Complexity</em> Volume 2018, Article ID 4212509.\
+[![DOI](https://img.shields.io/badge/DOI-10.1155/2018/4212509-lightgreen.svg)](https://doi.org/10.1155/2018/4212509)
 
 1. **Aguilera,** M &amp; Bedia, MG (2018). [Exploring Criticality as a Generic Adaptive Mechanism](https://doi.org/10.3389/fnbot.2018.00055). _Frontiers in Neurorobotics_ 12: 55.\
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fnbot.2018.00055-lightgreen.svg)](https://doi.org/10.3389/fnbot.2018.00055)
 
-1. **Aguilera** M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76. [![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
+1. **Aguilera** M, Bedia MG and Barandiaran XE (2016) <a href="http://journal.frontiersin.org/article/10.3389/fnsys.2016.00076/pdf"  target="_blank" rel="nofollow noopener">Extended Neural Metastability in an Embodied Model of Sensorimotor Coupling</a>. <em>Frontiers in Systems Neuroscience</em> 10:76.\
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fnsys.2016.00076-lightgreen.svg)](https://doi.org/10.3389/fnsys.2016.00076)
 
-1. Monterde, A, Calleja-López, A, **Aguilera,** M, Barandiaran, XE, &amp; Postill, J (2015). <a href="files/monterde_etal_2015_multitudinous_identities.pdf"  target="_blank">Multitudinous identities: a qualitative and network analysis of the 15M collective identity</a>. <em>Information, Communication and Society</em>. [![DOI](https://img.shields.io/badge/DOI-10.1080/1369118X.2015.1043315-lightgreen.svg)](https://doi.org/10.1080/1369118X.2015.1043315)
+1. Monterde, A, Calleja-López, A, **Aguilera,** M, Barandiaran, XE, &amp; Postill, J (2015). <a href="files/monterde_etal_2015_multitudinous_identities.pdf"  target="_blank">Multitudinous identities: a qualitative and network analysis of the 15M collective identity</a>. <em>Information, Communication and Society</em>.\
+[![DOI](https://img.shields.io/badge/DOI-10.1080/1369118X.2015.1043315-lightgreen.svg)](https://doi.org/10.1080/1369118X.2015.1043315)
 
-1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://doi.org/10.1371/journal.pone.0117465"  target="_blank" rel="nofollow noopener"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465. [![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightgreen.svg)](https://doi.org/10.1371/journal.pone.0117465)
+1. Aguilera M, Barandiaran XE, Bedia MG, Seron F (2015)<a href="https://doi.org/10.1371/journal.pone.0117465"  target="_blank" rel="nofollow noopener"> Self-Organized Criticality, Plasticity and Sensorimotor Coupling. Explorations with a Neurorobotic Model in a Behavioural Preference Task</a>. <em>PLoS ONE</em> 10(2): e0117465. \ [![DOI](https://img.shields.io/badge/DOI-10.1371/journal.pone.0117465-lightgreen.svg)](https://doi.org/10.1371/journal.pone.0117465)
 
-1. Bedia, MG, **Aguilera,** M, Gomez, T, Larrode, DG, &amp; Seron, F (2014). <a href="https://doi.org/10.3389/fpsyg.2014.01281"  target="_blank" rel="nofollow noopener">Quantifying long-range correlations and 1/f patterns in a minimal experiment of social interaction</a>. <em>Frontiers in Psychology</em>, 5, 1281. [![DOI](https://img.shields.io/badge/DOI-10.3389/fpsyg.2014.01281-lightgreen.svg)](https://doi.org/10.3389/fpsyg.2014.01281)
+1. Bedia, MG, **Aguilera,** M, Gomez, T, Larrode, DG, &amp; Seron, F (2014). <a href="https://doi.org/10.3389/fpsyg.2014.01281"  target="_blank" rel="nofollow noopener">Quantifying long-range correlations and 1/f patterns in a minimal experiment of social interaction</a>. <em>Frontiers in Psychology</em>, 5, 1281.\
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fpsyg.2014.01281-lightgreen.svg)](https://doi.org/10.3389/fpsyg.2014.01281)
 
-1. **Aguilera,** M, Bedia, MG, Barandiaran, XE. &amp; Serón, F (2014). <a href="files/adjustment-deployment-dilemma.pdf"  target="_blank">Intermittent animal behaviour: the adjustment deployment dilemma</a>.<em> Artificial Life, </em>20(4), 471–489. [![DOI](https://img.shields.io/badge/DOI-10.1162/ARTL_a_00133-lightgreen.svg)](https://doi.org/10.1162/ARTL_a_00133)
+1. **Aguilera,** M, Bedia, MG, Barandiaran, XE. &amp; Serón, F (2014). <a href="files/adjustment-deployment-dilemma.pdf"  target="_blank">Intermittent animal behaviour: the adjustment deployment dilemma</a>.<em> Artificial Life, </em>20(4), 471–489.\
+[![DOI](https://img.shields.io/badge/DOI-10.1162/ARTL_a_00133-lightgreen.svg)](https://doi.org/10.1162/ARTL_a_00133)
 
-1. **Aguilera,** M, Bedia, MG, Santos, BA, Barandiaran, XE (2013).<a href="https://doi.org/10.3389/fncom.2013.00117"  target="_blank" rel="nofollow noopener"> The Situated HKB Model: how sensorimotor spatial coupling can alter oscillatory brain dynamics</a>. <i>Frontiers in Computational Neuroscience</i> 7 (2013): 117. [![DOI](https://img.shields.io/badge/DOI-10.3389/fncom.2013.00117-lightgreen.svg)](https://doi.org/10.3389/fncom.2013.00117)
+1. **Aguilera,** M, Bedia, MG, Santos, BA, Barandiaran, XE (2013).<a href="https://doi.org/10.3389/fncom.2013.00117"  target="_blank" rel="nofollow noopener"> The Situated HKB Model: how sensorimotor spatial coupling can alter oscillatory brain dynamics</a>. <i>Frontiers in Computational Neuroscience</i> 7 (2013): 117.\
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fncom.2013.00117-lightgreen.svg)](https://doi.org/10.3389/fncom.2013.00117)
 
-1. Santos, BA, Barandiaran, XE, Husbands, P, **Aguilera,** M &amp; Bedia, M G. (2012). <a href="https://doi.org/10.1080/09540091.2013.770821" target="_blank" rel="nofollow noopener">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>. [![DOI](https://img.shields.io/badge/DOI-10.1080/09540091.2013.770821-lightgreen.svg)](https://doi.org/10.1080/09540091.2013.770821)
+1. Santos, BA, Barandiaran, XE, Husbands, P, **Aguilera,** M &amp; Bedia, M G. (2012). <a href="https://doi.org/10.1080/09540091.2013.770821" target="_blank" rel="nofollow noopener">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>.\
+[![DOI](https://img.shields.io/badge/DOI-10.1080/09540091.2013.770821-lightgreen.svg)](https://doi.org/10.1080/09540091.2013.770821)
 
-1. \[Commentary\] **Aguilera**, M & Buckley, CL (2022). [Recurent, nonequilibrium systems and the Markov blanket assumption](https://doi.org/10.1017/S0140525X22000309). _Behavioral and Brain Sciences_ 45:184. [![DOI](https://img.shields.io/badge/DOI-10.1017/S0140525X22000309-lightgreen.svg)](https://doi.org/10.1017/S0140525X22000309)
+1. \[Commentary\] **Aguilera**, M & Buckley, CL (2022). [Recurent, nonequilibrium systems and the Markov blanket assumption](https://doi.org/10.1017/S0140525X22000309). _Behavioral and Brain Sciences_ 45:184.\
+[![DOI](https://img.shields.io/badge/DOI-10.1017/S0140525X22000309-lightgreen.svg)](https://doi.org/10.1017/S0140525X22000309)
 
-1. \[Commentary\] **Aguilera**, M (2022). [The nonequilibrium boundaries of living systems](https://doi.org/10.1017/S0140525X22000309). _Physics of Life Reviews_ 43:23-25 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2022.08.002-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2022.08.002)
+1. \[Commentary\] **Aguilera**, M (2022). [The nonequilibrium boundaries of living systems](https://doi.org/10.1017/S0140525X22000309). _Physics of Life Reviews_ 43:23-25.\
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2022.08.002-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2022.08.002)
 
 ### Conference Publications
 
