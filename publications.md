@@ -60,9 +60,14 @@ title: Publications
 
 ### Conference Publications
 
+
+1. **Aguilera,** M & Kolchinsky A (2023). [Quantifying higher-order entropy production in organized nonequilibrium states](https://direct.mit.edu/isal/proceedings/isal/35/45/116909). _ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference_.
+
+1. Spychala, N & **Aguilera,** M (2023). [Exploring the relation of variational inference and integrated information in a minimal model](https://direct.mit.edu/isal/proceedings/isal/35/52/116811). _ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference_.
+
 1. Poc-López, A & **Aguilera,** M (2021). <a href="https://doi.org/10.1007/978-3-030-92270-2_20"  target="_blank" rel="nofollow noopener">Inference in Neural Networks Using Conditional Mean-Field Methods</a>. <i> International Conference on Neural Information Processing ICONIP 2021</i>, pp 228-237.
 
-1. Vakhrameev, D, **Aguilera,** M., Barandiaran, XE & Bedia MG (2020). [Measuring Autonomy for Life-Like AI](https://direct.mit.edu/isal/proceedings/isal2020/589/98424). _ALIFE 2020: The 2020 Conference on Artificial Life_. pp. 589-591.
+1. Vakhrameev, D, **Aguilera,** M, Barandiaran, XE & Bedia MG (2020). [Measuring Autonomy for Life-Like AI](https://direct.mit.edu/isal/proceedings/isal2020/589/98424). _ALIFE 2020: The 2020 Conference on Artificial Life_. pp. 589-591.
 
 1. **Aguilera,** M, Arandia-Romero, I & Heras-Escribano, M (2019). <a href="https://doi.org/10.1162/isal_a_00136"  target="_blank" rel="nofollow noopener">Quantifying affordances through information theory</a>. <i>The 2019 Conference on Artificial Life</i>, <i>31</i>, 11-12.
 
