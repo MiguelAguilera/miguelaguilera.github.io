@@ -10,7 +10,7 @@ menu:
 - {name: 'About', path: 'menu', url: 'about'}
 - {name: 'Research', path: 'menu', url: 'research'}
 - {name: 'Lab', path: 'menu', link: 'https://lab.maguilera.net'}
-- {name: 'Projects', path: 'menu', url: 'projects'}
+#- {name: 'Projects', path: 'menu', url: 'projects'}
 - {name: 'Publications', path: 'menu', url: 'publications'}
 #- {name: 'Code & Data', path: 'menu', url: 'repositories'}
 #- {name: 'Blog', path: 'menu', url: 'blog'}
