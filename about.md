@@ -14,7 +14,9 @@ Previously, I was a Marie Skłodowska-Curie research fellow at the University of
 
 <!--<img src="https://maguilera.net/img/agency.png" width="300"  alt="agency" align="right" />-->
 
-I did my PhD funded by a FPU grant from the Spanish Education Ministry, entitled [Interaction Dynamics and Autonomy in Cognitive Systems](http://phdthesis.maguilera.net/), focused on the development of operational models of sensorimotor agency, co-supervised by [Manuel Bedia](https://i3a.unizar.es/es/investigadores/manuel-gonzalez-bedia) and [Xabier Barandiaran](https://xabier.barandiaran.net). During my PhD thesis I had the opportunity to do research visits at [Randall Beer's Lab](http://mypage.iu.edu/~rdbeer/) in the [Cognitive Science Program at Indiana University](https://cogs.indiana.edu/), and [Takashi Ikegami's Laboratory](http://sacral.c.u-tokyo.ac.jp/) at the University of Tokyo. As well, I participated in the [Datanalysis15M](http://datanalysis15m.wordpress.com/) research network, applying complex systems tools to complex social networks related to the 15M movement in Spain.
+I did my PhD funded by a FPU grant from the Spanish Education Ministry, entitled [Interaction Dynamics and Autonomy in Cognitive Systems](http://phdthesis.maguilera.net/), focused on the development of operational models of sensorimotor agency, co-supervised by [Manuel Bedia](https://i3a.unizar.es/es/investigadores/manuel-gonzalez-bedia) and [Xabier Barandiaran](https://xabier.barandiaran.net). 
+<!--During my PhD thesis I had the opportunity to do research visits at [Randall Beer's Lab](http://mypage.iu.edu/~rdbeer/) in the [Cognitive Science Program at Indiana University](https://cogs.indiana.edu/), and [Takashi Ikegami's Laboratory](http://sacral.c.u-tokyo.ac.jp/) at the University of Tokyo.-->
+ As well, I participated in the [Datanalysis15M](http://datanalysis15m.wordpress.com/) research network, applying complex systems tools to complex social networks related to the 15M movement in Spain.
 
 ### Selected publications
 
