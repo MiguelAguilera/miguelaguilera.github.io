@@ -21,8 +21,8 @@ social:
 - {icon: 'envelope', link: '/contact'}
 - {icon: 'github', link: 'https://www.github.com/MiguelAguilera'}
 #- {icon: 'mastodon', link: 'https://mastodon.social/@maguilera'}
-- {icon: 'twitter', link: 'https://twitter.com/m_aguilera_'}
-- {icon: 'mastodon', link: 'https://bsky.app/profile/maguilera.net'}
+#- {icon: 'twitter', link: 'https://twitter.com/m_aguilera_'}
+- {icon: 'twitter', link: 'https://bsky.app/profile/maguilera.net'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
