@@ -14,7 +14,7 @@ menu:
 - {name: 'Publications', path: 'menu', url: 'publications'}
 #- {name: 'Code & Data', path: 'menu', url: 'repositories'}
 #- {name: 'Blog', path: 'menu', url: 'blog'}
-#- {name: 'Contact', path: 'menu', url: 'contact'}
+- {name: 'Contact', path: 'menu', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
