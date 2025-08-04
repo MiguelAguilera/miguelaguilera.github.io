@@ -7,7 +7,7 @@ tags: [paper]
 image: nonequilibrium-thermodynamics-SK.png
 ---
 
-Our [new paper](https://www.nature.com/articles/s41467-023-39107-y) nonequilibrium thermodynamics of large, disordered networks - in collaboration with Masanao Igarashi and [Hideaki Shimazaki](https://www.neuralengine.org/index_en.html)  - has just been published in Nature Communications. In this study we analytically calculate an exact expression for the entropy production of an asymmetric version of the Sherrington-Kirkpatric model, finding that it is maximized both at critical phase transitions as well as a region of quasi-deterministic chaos.
+Our [new paper](https://www.nature.com/articles/s41467-023-39107-y) on nonequilibrium thermodynamics of large, disordered networks - in collaboration with Masanao Igarashi and [Hideaki Shimazaki](https://www.neuralengine.org/index_en.html)  - has just been published in Nature Communications. In this study we analytically calculate an exact expression for the entropy production of an asymmetric version of the Sherrington-Kirkpatric model, finding that it is maximized both at critical phase transitions as well as a region of quasi-deterministic chaos.
 
 Thanks to BCAM's and Kyoto University communication teams we have released [a press release](https://news.bcamath.org/2023/06/23/an-interdisciplinary-collaboration-for-deciphering-the-thermodynamic-arrow-of-time-in-complex-networks/) describing the interest of looking at neural and complex networks from the perspective of a thermoynamic lens, accompanied by a fantastic illustration by [Robin Hoshino](http://www.hoshinorobin.com)
 
