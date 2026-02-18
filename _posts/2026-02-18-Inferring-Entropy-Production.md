@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Explosive neural networks via higher-order interactions in curved statistical manifolds"
+title: "Inferring Entropy Production in Many-Body Systems Using Nonequilibrium Maximum Entropy"
 author: "Miguel Aguilera"
 categories: blog
 tags: [paper]
