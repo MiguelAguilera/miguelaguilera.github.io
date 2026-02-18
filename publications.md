@@ -5,6 +5,10 @@ title: Publications
 
 ### Journal Publications
 
+1. **Aguilera** M, Ito S & Kolchinsky A (2026). [Inferring Entropy Production in Many-Body Systems Using Nonequilibrium Maximum Entropy](https://journals.aps.org/prl/pdf/10.1103/xgkj-dxzh). _Nature Communications_ **136**, 077101.  \
+[![DOI](https://img.shields.io/badge/DOI-10.1103/xgkj--dxzh-lightgreen.svg)](DOI: https://doi.org/10.1103/xgkj-dxzh)
+
+
 1. **Aguilera** M, Morales PA, Rosas FE & Shimazaki H (2025). [Explosive neural networks via higher-order interactions in curved statistical manifolds](https://www.nature.com/articles/s41467-025-61475-w). _Nature Communications_ **16**, 6511.  \
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--025--61475--w-lightgreen.svg)](https://doi.org/10.1038/s41467-025-61475-w)
 
