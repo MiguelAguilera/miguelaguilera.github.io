@@ -67,6 +67,8 @@ title: Publications
 
 ### Conference Publications
 
+1. **Aguilera**, M, De Martino, D, Garashchuk, I & Sinelshchikov, D (2025). [Nonequilibrium Thermodynamics of Associative Memory Continuous-Time Recurrent Neural Networks](https://direct.mit.edu/isal/proceedings/isal2025/37/55/134079). _ALIFE 2025: Ciphers of Life: Proceedings of the Artificial Life Conference 2025_.
+
 1. **Aguilera**, M & Barandiaran, XE (2024). [Thermina: A minimal model of autonomous agency from the lens of stochastic thermodynamics](https://direct.mit.edu/isal/proceedings/isal2024/36/121/123509). _ALIFE 2024: Proceedings of the 2024 Artificial Life Conference_.
 
 1. **Aguilera**, M & Kolchinsky, A (2023). [Quantifying higher-order entropy production in organized nonequilibrium states](https://direct.mit.edu/isal/proceedings/isal/35/45/116909). _ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference_.
