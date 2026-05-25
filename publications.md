@@ -15,7 +15,7 @@ title: Publications
 1. **Aguilera** M, Igarashi, M & Shimazaki, H (2023). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y). _Nature Communications_ **14**, 3685.\
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--023--39107--y-lightgreen.svg)](https://doi.org/10.1038/s41467-023-39107-y)
 
-1. **Aguilera**, M, Millidge, B, Tschantz, A & Buckley, CL (2022). [How particular is the physics of the free energy principle?](https://www.nature.com/articles/s41467-021-20890-5). _Physics of Life Reviews_ 40:24-50.\
+1. **Aguilera**, M, Millidge, B, Tschantz, A & Buckley, CL (2022). [How particular is the physics of the free energy principle?](https://doi.org/10.1016/j.plrev.2021.11.001). _Physics of Life Reviews_ 40:24-50.\
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.plrev.2021.11.001-lightgreen.svg)](https://doi.org/10.1016/j.plrev.2021.11.001)
 
 1. **Aguilera**, M, Moosavi, SA & Shimazaki H (2021). [A unifying framework for mean-field theories of asymmetric kinetic Ising systems](https://www.nature.com/articles/s41467-021-20890-5).  _Nature Communications_ **12**, 1197.\
@@ -59,7 +59,7 @@ title: Publications
 1. Santos, BA, Barandiaran, XE, Husbands, P, **Aguilera**, M &amp; Bedia, M G. (2012). <a href="https://doi.org/10.1080/09540091.2013.770821" target="_blank" rel="nofollow noopener">Sensorimotor coordination and metastability in a situated HKB model</a>. <em>Connection Science</em>.\
 [![DOI](https://img.shields.io/badge/DOI-10.1080/09540091.2013.770821-lightgreen.svg)](https://doi.org/10.1080/09540091.2013.770821)
 
-1. \[Commentary\] **Aguilera**, M & Buckley, CL (2022). [Recurent, nonequilibrium systems and the Markov blanket assumption](https://doi.org/10.1017/S0140525X22000309). _Behavioral and Brain Sciences_ 45:184.\
+1. \[Commentary\] **Aguilera**, M & Buckley, CL (2022). [Recurrent, nonequilibrium systems and the Markov blanket assumption](https://doi.org/10.1017/S0140525X22000309). _Behavioral and Brain Sciences_ 45:184.\
 [![DOI](https://img.shields.io/badge/DOI-10.1017/S0140525X22000309-lightgreen.svg)](https://doi.org/10.1017/S0140525X22000309)
 
 1. \[Commentary\] **Aguilera**, M (2022). [The nonequilibrium boundaries of living systems](https://doi.org/10.1017/S0140525X22000309). _Physics of Life Reviews_ 43:23-25.\

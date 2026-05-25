@@ -1,6 +1,6 @@
 ---
 layout: page
-tite: Research topics
+title: Research topics
 ---
 
 <!-- This is commented out. -->
@@ -24,7 +24,7 @@ Neural systems operate far from equilibrium, changing with sensory streams and i
 
 **_Integrated Information Theory_**
 
-Integrated Information Theory (IIT) is a popular mathematical framework for understanding integration in neural systems and its significance to processes like consciousness and awareness. However, the computational cost of these measures generally precludes applications beyond relatively small systems, and it is not yet well understood how integration scales up with the size of a system nor how a system maintains integration as it interacts with its environment. In collaboration with [Ezequiel Di Paolo](https://ezequieldipaolo.net) we showed using mean-field approximations ho measures of information integration scale when a neural network becomes very large, connecting it with theories on critical phase transitions.
+Integrated Information Theory (IIT) is a popular mathematical framework for understanding integration in neural systems and its significance to processes like consciousness and awareness. However, the computational cost of these measures generally precludes applications beyond relatively small systems, and it is not yet well understood how integration scales up with the size of a system nor how a system maintains integration as it interacts with its environment. In collaboration with [Ezequiel Di Paolo](https://ezequieldipaolo.net) we showed using mean-field approximations how measures of information integration scale when a neural network becomes very large, connecting it with theories on critical phase transitions.
 
 1. **Aguilera,** M & Di Paolo, EA (2019). [Integrated information in the thermodynamic limit](https://doi.org/10.1016/j.neunet.2019.03.001). <i>Neural Networks</i>, Volume 114, pp 136-146.\
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.neunet.2019.03.001-lightgreen.svg)](https://doi.org/10.1016/j.neunet.2019.03.001)

@@ -14,7 +14,7 @@ Thanks to the media teams at the University of Sussex, Kyoto University, and BCA
 <img src="https://maguilera.net/img/explosive_landscape.jpg" width="500" alt="Curved neural network landscape" align="center" />
 
 
-1. **Aguilera** M, Morales PA, Rosas FE & Shimazaki H (2025). [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-025-61475-w). _Nature Communications_ **16**, 6511.  \
+1. **Aguilera** M, Morales PA, Rosas FE & Shimazaki H (2025). [Explosive neural networks via higher-order interactions in curved statistical manifolds](https://www.nature.com/articles/s41467-025-61475-w). _Nature Communications_ **16**, 6511.  \
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41467--025--61475--w-lightgreen.svg)](https://doi.org/10.1038/s41467-025-61475-w)
 
 

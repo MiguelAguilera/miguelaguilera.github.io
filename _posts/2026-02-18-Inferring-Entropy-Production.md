@@ -30,7 +30,7 @@ In the paper, we demonstrate its performance on 1) a disordered nonequilibrium s
 
 
 * **Aguilera** M, Ito S & Kolchinsky A (2026). [Inferring Entropy Production in Many-Body Systems Using Nonequilibrium Maximum Entropy](https://journals.aps.org/prl/pdf/10.1103/xgkj-dxzh). _Physical Review Letters_ **136**, 077101.  \
-[![DOI](https://img.shields.io/badge/DOI-10.1103/xgkj--dxzh-lightgreen.svg)](DOI: https://doi.org/10.1103/xgkj-dxzh)
+[![DOI](https://img.shields.io/badge/DOI-10.1103/xgkj--dxzh-lightgreen.svg)](https://doi.org/10.1103/xgkj-dxzh)
 
 
 **Abstract**
